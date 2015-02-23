@@ -17,6 +17,7 @@ Turn strings into emojis.
     Grinning Face, Victory Hand, Face With Tears Of Joy, Leftwards Arrow With Hook
 
 # TODO
+* Decoding too
 * Better README.md
 * Better documentations
 * Flask application for the thing
