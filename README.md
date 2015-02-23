@@ -1,5 +1,5 @@
 # emoji-cipher
-Turn strings into emojis.
+Turn words into emojis.
 
 # How it works
 ![table](https://i.imgur.com/AxAiYKg.png)
