@@ -1,6 +1,10 @@
 # emoji-cipher
 Turn strings into emojis.
 
+# How it works
+!(https://i.imgur.com/AxAiYKg.png)
+!(https://i.imgur.com/bgGbK2b.png)
+
 # Example
 
     $ python emoji.py hello
