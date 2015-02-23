@@ -6,7 +6,7 @@ from sys import argv, exit
 
 # Get the first string from the arguments
 string1 = " ".join(argv[1:])
-# The first alphabet is a string of the 26 letters in the latin alphabet
+# The first alphabet is a string of the english alphabet
 alphabet1 = "abcdefghijklmnopqrstuvwxyz"
 
 # Check whether the argv input only contains the letters of the alphabet
