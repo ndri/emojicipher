@@ -2,8 +2,8 @@
 Turn strings into emojis.
 
 # How it works
-!(https://i.imgur.com/AxAiYKg.png)
-!(https://i.imgur.com/bgGbK2b.png)
+![table](https://i.imgur.com/AxAiYKg.png)
+![diagram](https://i.imgur.com/bgGbK2b.png)
 
 # Example
 
