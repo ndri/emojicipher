@@ -1,4 +1,7 @@
 # emoji-cipher
-Turn strings into emojis
+Turn strings into emojis.
 
-Why can't I commit
+# TODO
+* Better README.md
+* Better documentations
+* Flask application for the thing
