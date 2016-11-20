@@ -1,76 +1,72 @@
 #/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Emoji cipher
-import json
+
 from sys import argv, exit
 
-# Get the first string from the arguments
-string1 = " ".join(argv[1:])
-# The first alphabet is a string of the english alphabet
-alphabet1 = "abcdefghijklmnopqrstuvwxyz"
+# Get the arguments
+if argv[1] == "encipher":
+    en = True
+    string1 = " ".join(argv[2:])
+elif argv[1] == "decipher":
+    en = False
+    string1 = " ".join(argv[2:]).split()
+else:
+    exit("Usage: emoji.py encipher|decipher) " \
+         "(words with spaces|emojis separated by spaces)")
 
-# Check whether the argv input only contains the letters of the alphabet
-if any(letter not in alphabet1 for letter in string1):
-    # If not, abort
-    exit("Invalid input. Aborting.")
+# The first alphabet is just letters with spaces
+alphabet1 = list("abcdefghijklmnopqrstuvwxyz ")
 
-# Get the emoji list from the emojilist file
+# Getting the second alphabet from an external file
 with open("emojilist") as f:
-    emojilist = json.loads(f.read())
+    emojilist = f.read().splitlines()
+alphabet2 = [emoji.split("|")[0] for emoji in emojilist]
+#meanings = [emoji.split("|")[1] for emoji in emojilist]
 
-# The second alphabet is a string of all emojis
-alphabet2 = "".join([emoji[0] for emoji in emojilist])
+# Checking whether the inputs are appropriate for their alphabets
+if en and any(letter not in alphabet1 for letter in string1):
+    exit("Please use only letters and spaces.")
+elif not en and any(letter not in alphabet2 for letter in string1):
+    exit("Please use only emojis separated by spaces.")
 
-# This is a list of the emoji meanings that will be used later on
-meanings = [emoji[1] for emoji in emojilist]
 
-
-# Function that takes a string and an alphabet and returns the
-# position of the string in all combinations of the alphabet
+# Function that returns the index of the word in all possible combinations
+# of the given alphabet
 def intify(string, alphabet):
-    # Add up all combinations for lengths lower than the current length
     number = sum([len(alphabet)**i for i in range(len(string))])
-    # Variable for the possible combinations of the current length
     combinations = len(alphabet)**(len(string))
-    # Go through each letter in the string
     for letter in string:
-        # Prepare the possible combinations for the next letter
         combinations /= len(alphabet)
-        # Add the possible combinations for the current letter to the 
-        # total number
         number += alphabet.index(letter) * combinations
     return number
 
-# Function that takes a number and an alphabet and returns the 
-# number-th combination of the alphabet
+# Function that turns the index into a word using the alphabet
 def wordify(number, alphabet):
-    string = ""
+    out = []
     while 1:
-        # Check whether this is the final character
         if number <= len(alphabet):
-            # Prepend final character to string
-            string = alphabet[number-1] + string
-            # Stop the loop, it is done
+            out.insert(0, alphabet[number-1])
             break
-        # Get the  character position
         loc = number % len(alphabet)
-        # If it's the last character it shouldn't be 0
         loc += len(alphabet) * (loc == 0)
-        # Prepend character to string
-        # (it works from the ground up)
-        string = alphabet[loc-1] + string
-        # Remove character from number
+        out.insert(0, alphabet[loc-1])
         number = (number - loc) / len(alphabet)
-    return string
+    return out
 
+# Functions that use the above functions to encipher/decipher words
+def encipher(string):
+    integer = intify(string, alphabet1)
+    return wordify(integer, alphabet2)
 
-# Get the integer from the first string and first alphabet
-integer = intify(string1, alphabet1)
+def decipher(string):
+    integer = intify(string, alphabet2)
+    return wordify(integer, alphabet1)
 
-# Get the second string from the integer and second alphabet
-string2 = wordify(integer, alphabet2)
+# Enciphering/deciphering and returning the output
+if en:
+    string2 = " ".join(encipher(string1))
+else:
+    string2 = "".join(decipher(string1))
 
-# Print the important things
-#print number
 print string2
-print ", ".join([meanings[alphabet2.index(letter)] for letter in string2])

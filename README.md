@@ -1,5 +1,7 @@
 # emoji-cipher
 Turn words into emojis.
+I updated the code a lot and will update the readme soon.
+Demo at http://andri.io
 
 # How it works
 ![table](https://i.imgur.com/AxAiYKg.png)

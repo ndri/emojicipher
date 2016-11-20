@@ -1,3302 +1,1791 @@
-[
-    [
-        "\ud83d\ude04", 
-        "Smiling Face With Open Mouth And Smiling Eyes"
-    ], 
-    [
-        "\ud83d\ude03", 
-        "Smiling Face With Open Mouth"
-    ], 
-    [
-        "\ud83d\ude00", 
-        "Grinning Face"
-    ], 
-    [
-        "\ud83d\ude0a", 
-        "Smiling Face With Smiling Eyes"
-    ], 
-    [
-        "\u263a", 
-        "White Smiling Face"
-    ], 
-    [
-        "\ud83d\ude09", 
-        "Winking Face"
-    ], 
-    [
-        "\ud83d\ude0d", 
-        "Smiling Face With Heart-Shaped Eyes"
-    ], 
-    [
-        "\ud83d\ude18", 
-        "Face Throwing A Kiss"
-    ], 
-    [
-        "\ud83d\ude1a", 
-        "Kissing Face With Closed Eyes"
-    ], 
-    [
-        "\ud83d\ude17", 
-        "Kissing Face"
-    ], 
-    [
-        "\ud83d\ude19", 
-        "Kissing Face With Smiling Eyes"
-    ], 
-    [
-        "\ud83d\ude1c", 
-        "Face With Stuck-Out Tongue And Winking Eye"
-    ], 
-    [
-        "\ud83d\ude1d", 
-        "Face With Stuck-Out Tongue And Tightly-Closed Eyes"
-    ], 
-    [
-        "\ud83d\ude1b", 
-        "Face With Stuck-Out Tongue"
-    ], 
-    [
-        "\ud83d\ude33", 
-        "Flushed Face"
-    ], 
-    [
-        "\ud83d\ude01", 
-        "Grinning Face With Smiling Eyes"
-    ], 
-    [
-        "\ud83d\ude14", 
-        "Pensive Face"
-    ], 
-    [
-        "\ud83d\ude0c", 
-        "Relieved Face"
-    ], 
-    [
-        "\ud83d\ude12", 
-        "Unamused Face"
-    ], 
-    [
-        "\ud83d\ude1e", 
-        "Disappointed Face"
-    ], 
-    [
-        "\ud83d\ude23", 
-        "Persevering Face"
-    ], 
-    [
-        "\ud83d\ude22", 
-        "Crying Face"
-    ], 
-    [
-        "\ud83d\ude02", 
-        "Face With Tears Of Joy"
-    ], 
-    [
-        "\ud83d\ude2d", 
-        "Loudly Crying Face"
-    ], 
-    [
-        "\ud83d\ude2a", 
-        "Sleepy Face"
-    ], 
-    [
-        "\ud83d\ude25", 
-        "Disappointed But Relieved Face"
-    ], 
-    [
-        "\ud83d\ude30", 
-        "Face With Open Mouth And Cold Sweat"
-    ], 
-    [
-        "\ud83d\ude05", 
-        "Smiling Face With Open Mouth And Cold Sweat"
-    ], 
-    [
-        "\ud83d\ude13", 
-        "Face With Cold Sweat"
-    ], 
-    [
-        "\ud83d\ude29", 
-        "Weary Face"
-    ], 
-    [
-        "\ud83d\ude2b", 
-        "Tired Face"
-    ], 
-    [
-        "\ud83d\ude28", 
-        "Fearful Face"
-    ], 
-    [
-        "\ud83d\ude31", 
-        "Face Screaming In Fear"
-    ], 
-    [
-        "\ud83d\ude20", 
-        "Angry Face"
-    ], 
-    [
-        "\ud83d\ude21", 
-        "Pouting Face"
-    ], 
-    [
-        "\ud83d\ude24", 
-        "Face With Look Of Triumph"
-    ], 
-    [
-        "\ud83d\ude16", 
-        "Confounded Face"
-    ], 
-    [
-        "\ud83d\ude06", 
-        "Smiling Face With Open Mouth And Tightly-Closed Eyes"
-    ], 
-    [
-        "\ud83d\ude0b", 
-        "Face Savouring Delicious Food"
-    ], 
-    [
-        "\ud83d\ude37", 
-        "Face With Medical Mask"
-    ], 
-    [
-        "\ud83d\ude0e", 
-        "Smiling Face With Sunglasses"
-    ], 
-    [
-        "\ud83d\ude34", 
-        "Sleeping Face"
-    ], 
-    [
-        "\ud83d\ude35", 
-        "Dizzy Face"
-    ], 
-    [
-        "\ud83d\ude32", 
-        "Astonished Face"
-    ], 
-    [
-        "\ud83d\ude1f", 
-        "Worried Face"
-    ], 
-    [
-        "\ud83d\ude26", 
-        "Frowning Face With Open Mouth"
-    ], 
-    [
-        "\ud83d\ude27", 
-        "Anguished Face"
-    ], 
-    [
-        "\ud83d\ude08", 
-        "Smiling Face With Horns"
-    ], 
-    [
-        "\ud83d\udc7f", 
-        "Imp"
-    ], 
-    [
-        "\ud83d\ude2e", 
-        "Face With Open Mouth"
-    ], 
-    [
-        "\ud83d\ude2c", 
-        "Grimacing Face"
-    ], 
-    [
-        "\ud83d\ude10", 
-        "Neutral Face"
-    ], 
-    [
-        "\ud83d\ude15", 
-        "Confused Face"
-    ], 
-    [
-        "\ud83d\ude2f", 
-        "Hushed Face"
-    ], 
-    [
-        "\ud83d\ude36", 
-        "Face Without Mouth"
-    ], 
-    [
-        "\ud83d\ude07", 
-        "Smiling Face With Halo"
-    ], 
-    [
-        "\ud83d\ude0f", 
-        "Smirking Face"
-    ], 
-    [
-        "\ud83d\ude11", 
-        "Expressionless Face"
-    ], 
-    [
-        "\ud83d\udc72", 
-        "Man With Gua Pi Mao"
-    ], 
-    [
-        "\ud83d\udc73", 
-        "Man With Turban"
-    ], 
-    [
-        "\ud83d\udc6e", 
-        "Police Officer"
-    ], 
-    [
-        "\ud83d\udc77", 
-        "Construction Worker"
-    ], 
-    [
-        "\ud83d\udc82", 
-        "Guardsman"
-    ], 
-    [
-        "\ud83d\udc76", 
-        "Baby"
-    ], 
-    [
-        "\ud83d\udc66", 
-        "Boy"
-    ], 
-    [
-        "\ud83d\udc67", 
-        "Girl"
-    ], 
-    [
-        "\ud83d\udc68", 
-        "Man"
-    ], 
-    [
-        "\ud83d\udc69", 
-        "Woman"
-    ], 
-    [
-        "\ud83d\udc74", 
-        "Older Man"
-    ], 
-    [
-        "\ud83d\udc75", 
-        "Older Woman"
-    ], 
-    [
-        "\ud83d\udc71", 
-        "Person With Blond Hair"
-    ], 
-    [
-        "\ud83d\udc7c", 
-        "Baby Angel"
-    ], 
-    [
-        "\ud83d\udc78", 
-        "Princess"
-    ], 
-    [
-        "\ud83d\ude3a", 
-        "Smiling Cat Face With Open Mouth"
-    ], 
-    [
-        "\ud83d\ude38", 
-        "Grinning Cat Face With Smiling Eyes"
-    ], 
-    [
-        "\ud83d\ude3b", 
-        "Smiling Cat Face With Heart-Shaped Eyes"
-    ], 
-    [
-        "\ud83d\ude3d", 
-        "Kissing Cat Face With Closed Eyes"
-    ], 
-    [
-        "\ud83d\ude3c", 
-        "Cat Face With Wry Smile"
-    ], 
-    [
-        "\ud83d\ude40", 
-        "Weary Cat Face"
-    ], 
-    [
-        "\ud83d\ude3f", 
-        "Crying Cat Face"
-    ], 
-    [
-        "\ud83d\ude39", 
-        "Cat Face With Tears Of Joy"
-    ], 
-    [
-        "\ud83d\ude3e", 
-        "Pouting Cat Face"
-    ], 
-    [
-        "\ud83d\udc79", 
-        "Japanese Ogre"
-    ], 
-    [
-        "\ud83d\udc7a", 
-        "Japanese Goblin"
-    ], 
-    [
-        "\ud83d\ude48", 
-        "See-No-Evil Monkey"
-    ], 
-    [
-        "\ud83d\ude49", 
-        "Hear-No-Evil Monkey"
-    ], 
-    [
-        "\ud83d\ude4a", 
-        "Speak-No-Evil Monkey"
-    ], 
-    [
-        "\ud83d\udc80", 
-        "Skull"
-    ], 
-    [
-        "\ud83d\udc7d", 
-        "Extraterrestrial Alien"
-    ], 
-    [
-        "\ud83d\udca9", 
-        "Pile Of Poo"
-    ], 
-    [
-        "\ud83d\udd25", 
-        "Fire"
-    ], 
-    [
-        "\u2728", 
-        "Sparkles"
-    ], 
-    [
-        "\ud83c\udf1f", 
-        "Glowing Star"
-    ], 
-    [
-        "\ud83d\udcab", 
-        "Dizzy Symbol"
-    ], 
-    [
-        "\ud83d\udca5", 
-        "Collision Symbol"
-    ], 
-    [
-        "\ud83d\udca2", 
-        "Anger Symbol"
-    ], 
-    [
-        "\ud83d\udca6", 
-        "Splashing Sweat Symbol"
-    ], 
-    [
-        "\ud83d\udca7", 
-        "Droplet"
-    ], 
-    [
-        "\ud83d\udca4", 
-        "Sleeping Symbol"
-    ], 
-    [
-        "\ud83d\udca8", 
-        "Dash Symbol"
-    ], 
-    [
-        "\ud83d\udc42", 
-        "Ear"
-    ], 
-    [
-        "\ud83d\udc40", 
-        "Eyes"
-    ], 
-    [
-        "\ud83d\udc43", 
-        "Nose"
-    ], 
-    [
-        "\ud83d\udc45", 
-        "Tongue"
-    ], 
-    [
-        "\ud83d\udc44", 
-        "Mouth"
-    ], 
-    [
-        "\ud83d\udc4d", 
-        "Thumbs Up Sign"
-    ], 
-    [
-        "\ud83d\udc4e", 
-        "Thumbs Down Sign"
-    ], 
-    [
-        "\ud83d\udc4c", 
-        "Ok Hand Sign"
-    ], 
-    [
-        "\ud83d\udc4a", 
-        "Fisted Hand Sign"
-    ], 
-    [
-        "\u270a", 
-        "Raised Fist"
-    ], 
-    [
-        "\u270c", 
-        "Victory Hand"
-    ], 
-    [
-        "\ud83d\udc4b", 
-        "Waving Hand Sign"
-    ], 
-    [
-        "\u270b", 
-        "Raised Hand"
-    ], 
-    [
-        "\ud83d\udc50", 
-        "Open Hands Sign"
-    ], 
-    [
-        "\ud83d\udc46", 
-        "White Up Pointing Backhand Index"
-    ], 
-    [
-        "\ud83d\udc47", 
-        "White Down Pointing Backhand Index"
-    ], 
-    [
-        "\ud83d\udc49", 
-        "White Right Pointing Backhand Index"
-    ], 
-    [
-        "\ud83d\udc48", 
-        "White Left Pointing Backhand Index"
-    ], 
-    [
-        "\ud83d\ude4c", 
-        "Person Raising Both Hands In Celebration"
-    ], 
-    [
-        "\ud83d\ude4f", 
-        "Person With Folded Hands"
-    ], 
-    [
-        "\u261d", 
-        "White Up Pointing Index"
-    ], 
-    [
-        "\ud83d\udc4f", 
-        "Clapping Hands Sign"
-    ], 
-    [
-        "\ud83d\udcaa", 
-        "Flexed Biceps"
-    ], 
-    [
-        "\ud83d\udeb6", 
-        "Pedestrian"
-    ], 
-    [
-        "\ud83c\udfc3", 
-        "Runner"
-    ], 
-    [
-        "\ud83d\udc83", 
-        "Dancer"
-    ], 
-    [
-        "\ud83d\udc6b", 
-        "Man And Woman Holding Hands"
-    ], 
-    [
-        "\ud83d\udc6a", 
-        "Family"
-    ], 
-    [
-        "\ud83d\udc6c", 
-        "Two Men Holding Hands"
-    ], 
-    [
-        "\ud83d\udc6d", 
-        "Two Women Holding Hands"
-    ], 
-    [
-        "\ud83d\udc8f", 
-        "Kiss"
-    ], 
-    [
-        "\ud83d\udc91", 
-        "Couple With Heart"
-    ], 
-    [
-        "\ud83d\udc6f", 
-        "Woman With Bunny Ears"
-    ], 
-    [
-        "\ud83d\ude46", 
-        "Face With Ok Gesture"
-    ], 
-    [
-        "\ud83d\ude45", 
-        "Face With No Good Gesture"
-    ], 
-    [
-        "\ud83d\udc81", 
-        "Information Desk Person"
-    ], 
-    [
-        "\ud83d\ude4b", 
-        "Happy Person Raising One Hand"
-    ], 
-    [
-        "\ud83d\udc86", 
-        "Face Massage"
-    ], 
-    [
-        "\ud83d\udc87", 
-        "Haircut"
-    ], 
-    [
-        "\ud83d\udc85", 
-        "Nail Polish"
-    ], 
-    [
-        "\ud83d\udc70", 
-        "Bride With Veil"
-    ], 
-    [
-        "\ud83d\ude4e", 
-        "Person With Pouting Face"
-    ], 
-    [
-        "\ud83d\ude4d", 
-        "Person Frowning"
-    ], 
-    [
-        "\ud83d\ude47", 
-        "Person Bowing Deeply"
-    ], 
-    [
-        "\ud83c\udfa9", 
-        "Top Hat"
-    ], 
-    [
-        "\ud83d\udc51", 
-        "Crown"
-    ], 
-    [
-        "\ud83d\udc52", 
-        "Womans Hat"
-    ], 
-    [
-        "\ud83d\udc5f", 
-        "Athletic Shoe"
-    ], 
-    [
-        "\ud83d\udc5e", 
-        "Mans Shoe"
-    ], 
-    [
-        "\ud83d\udc61", 
-        "Womans Sandal"
-    ], 
-    [
-        "\ud83d\udc60", 
-        "High-Heeled Shoe"
-    ], 
-    [
-        "\ud83d\udc62", 
-        "Womans Boots"
-    ], 
-    [
-        "\ud83d\udc55", 
-        "T-Shirt"
-    ], 
-    [
-        "\ud83d\udc54", 
-        "Necktie"
-    ], 
-    [
-        "\ud83d\udc5a", 
-        "Womans Clothes"
-    ], 
-    [
-        "\ud83d\udc57", 
-        "Dress"
-    ], 
-    [
-        "\ud83c\udfbd", 
-        "Running Shirt With Sash"
-    ], 
-    [
-        "\ud83d\udc56", 
-        "Jeans"
-    ], 
-    [
-        "\ud83d\udc58", 
-        "Kimono"
-    ], 
-    [
-        "\ud83d\udc59", 
-        "Bikini"
-    ], 
-    [
-        "\ud83d\udcbc", 
-        "Briefcase"
-    ], 
-    [
-        "\ud83d\udc5c", 
-        "Handbag"
-    ], 
-    [
-        "\ud83d\udc5d", 
-        "Pouch"
-    ], 
-    [
-        "\ud83d\udc5b", 
-        "Purse"
-    ], 
-    [
-        "\ud83d\udc53", 
-        "Eyeglasses"
-    ], 
-    [
-        "\ud83c\udf80", 
-        "Ribbon"
-    ], 
-    [
-        "\ud83c\udf02", 
-        "Closed Umbrella"
-    ], 
-    [
-        "\ud83d\udc84", 
-        "Lipstick"
-    ], 
-    [
-        "\ud83d\udc9b", 
-        "Yellow Heart"
-    ], 
-    [
-        "\ud83d\udc99", 
-        "Blue Heart"
-    ], 
-    [
-        "\ud83d\udc9c", 
-        "Purple Heart"
-    ], 
-    [
-        "\ud83d\udc9a", 
-        "Green Heart"
-    ], 
-    [
-        "\u2764", 
-        "Heavy Black Heart"
-    ], 
-    [
-        "\ud83d\udc94", 
-        "Broken Heart"
-    ], 
-    [
-        "\ud83d\udc97", 
-        "Growing Heart"
-    ], 
-    [
-        "\ud83d\udc93", 
-        "Beating Heart"
-    ], 
-    [
-        "\ud83d\udc95", 
-        "Two Hearts"
-    ], 
-    [
-        "\ud83d\udc96", 
-        "Sparkling Heart"
-    ], 
-    [
-        "\ud83d\udc9e", 
-        "Revolving Hearts"
-    ], 
-    [
-        "\ud83d\udc98", 
-        "Heart With Arrow"
-    ], 
-    [
-        "\ud83d\udc8c", 
-        "Love Letter"
-    ], 
-    [
-        "\ud83d\udc8b", 
-        "Kiss Mark"
-    ], 
-    [
-        "\ud83d\udc8d", 
-        "Ring"
-    ], 
-    [
-        "\ud83d\udc8e", 
-        "Gem Stone"
-    ], 
-    [
-        "\ud83d\udc64", 
-        "Bust In Silhouette"
-    ], 
-    [
-        "\ud83d\udc65", 
-        "Busts In Silhouette"
-    ], 
-    [
-        "\ud83d\udcac", 
-        "Speech Balloon"
-    ], 
-    [
-        "\ud83d\udc63", 
-        "Footprints"
-    ], 
-    [
-        "\ud83d\udcad", 
-        "Thought Balloon"
-    ], 
-    [
-        "\ud83d\udc36", 
-        "Dog Face"
-    ], 
-    [
-        "\ud83d\udc3a", 
-        "Wolf Face"
-    ], 
-    [
-        "\ud83d\udc31", 
-        "Cat Face"
-    ], 
-    [
-        "\ud83d\udc2d", 
-        "Mouse Face"
-    ], 
-    [
-        "\ud83d\udc39", 
-        "Hamster Face"
-    ], 
-    [
-        "\ud83d\udc30", 
-        "Rabbit Face"
-    ], 
-    [
-        "\ud83d\udc38", 
-        "Frog Face"
-    ], 
-    [
-        "\ud83d\udc2f", 
-        "Tiger Face"
-    ], 
-    [
-        "\ud83d\udc28", 
-        "Koala"
-    ], 
-    [
-        "\ud83d\udc3b", 
-        "Bear Face"
-    ], 
-    [
-        "\ud83d\udc37", 
-        "Pig Face"
-    ], 
-    [
-        "\ud83d\udc3d", 
-        "Pig Nose"
-    ], 
-    [
-        "\ud83d\udc2e", 
-        "Cow Face"
-    ], 
-    [
-        "\ud83d\udc17", 
-        "Boar"
-    ], 
-    [
-        "\ud83d\udc35", 
-        "Monkey Face"
-    ], 
-    [
-        "\ud83d\udc12", 
-        "Monkey"
-    ], 
-    [
-        "\ud83d\udc34", 
-        "Horse Face"
-    ], 
-    [
-        "\ud83d\udc11", 
-        "Sheep"
-    ], 
-    [
-        "\ud83d\udc18", 
-        "Elephant"
-    ], 
-    [
-        "\ud83d\udc3c", 
-        "Panda Face"
-    ], 
-    [
-        "\ud83d\udc27", 
-        "Penguin"
-    ], 
-    [
-        "\ud83d\udc26", 
-        "Bird"
-    ], 
-    [
-        "\ud83d\udc24", 
-        "Baby Chick"
-    ], 
-    [
-        "\ud83d\udc25", 
-        "Front-Facing Baby Chick"
-    ], 
-    [
-        "\ud83d\udc23", 
-        "Hatching Chick"
-    ], 
-    [
-        "\ud83d\udc14", 
-        "Chicken"
-    ], 
-    [
-        "\ud83d\udc0d", 
-        "Snake"
-    ], 
-    [
-        "\ud83d\udc22", 
-        "Turtle"
-    ], 
-    [
-        "\ud83d\udc1b", 
-        "Bug"
-    ], 
-    [
-        "\ud83d\udc1d", 
-        "Honeybee"
-    ], 
-    [
-        "\ud83d\udc1c", 
-        "Ant"
-    ], 
-    [
-        "\ud83d\udc1e", 
-        "Lady Beetle"
-    ], 
-    [
-        "\ud83d\udc0c", 
-        "Snail"
-    ], 
-    [
-        "\ud83d\udc19", 
-        "Octopus"
-    ], 
-    [
-        "\ud83d\udc1a", 
-        "Spiral Shell"
-    ], 
-    [
-        "\ud83d\udc20", 
-        "Tropical Fish"
-    ], 
-    [
-        "\ud83d\udc1f", 
-        "Fish"
-    ], 
-    [
-        "\ud83d\udc2c", 
-        "Dolphin"
-    ], 
-    [
-        "\ud83d\udc33", 
-        "Spouting Whale"
-    ], 
-    [
-        "\ud83d\udc0b", 
-        "Whale"
-    ], 
-    [
-        "\ud83d\udc04", 
-        "Cow"
-    ], 
-    [
-        "\ud83d\udc0f", 
-        "Ram"
-    ], 
-    [
-        "\ud83d\udc00", 
-        "Rat"
-    ], 
-    [
-        "\ud83d\udc03", 
-        "Water Buffalo"
-    ], 
-    [
-        "\ud83d\udc05", 
-        "Tiger"
-    ], 
-    [
-        "\ud83d\udc07", 
-        "Rabbit"
-    ], 
-    [
-        "\ud83d\udc09", 
-        "Dragon"
-    ], 
-    [
-        "\ud83d\udc0e", 
-        "Horse"
-    ], 
-    [
-        "\ud83d\udc10", 
-        "Goat"
-    ], 
-    [
-        "\ud83d\udc13", 
-        "Rooster"
-    ], 
-    [
-        "\ud83d\udc15", 
-        "Dog"
-    ], 
-    [
-        "\ud83d\udc16", 
-        "Pig"
-    ], 
-    [
-        "\ud83d\udc01", 
-        "Mouse"
-    ], 
-    [
-        "\ud83d\udc02", 
-        "Ox"
-    ], 
-    [
-        "\ud83d\udc32", 
-        "Dragon Face"
-    ], 
-    [
-        "\ud83d\udc21", 
-        "Blowfish"
-    ], 
-    [
-        "\ud83d\udc0a", 
-        "Crocodile"
-    ], 
-    [
-        "\ud83d\udc2b", 
-        "Bactrian Camel"
-    ], 
-    [
-        "\ud83d\udc2a", 
-        "Dromedary Camel"
-    ], 
-    [
-        "\ud83d\udc06", 
-        "Leopard"
-    ], 
-    [
-        "\ud83d\udc08", 
-        "Cat"
-    ], 
-    [
-        "\ud83d\udc29", 
-        "Poodle"
-    ], 
-    [
-        "\ud83d\udc3e", 
-        "Paw Prints"
-    ], 
-    [
-        "\ud83d\udc90", 
-        "Bouquet"
-    ], 
-    [
-        "\ud83c\udf38", 
-        "Cherry Blossom"
-    ], 
-    [
-        "\ud83c\udf37", 
-        "Tulip"
-    ], 
-    [
-        "\ud83c\udf40", 
-        "Four Leaf Clover"
-    ], 
-    [
-        "\ud83c\udf39", 
-        "Rose"
-    ], 
-    [
-        "\ud83c\udf3b", 
-        "Sunflower"
-    ], 
-    [
-        "\ud83c\udf3a", 
-        "Hibiscus"
-    ], 
-    [
-        "\ud83c\udf41", 
-        "Maple Leaf"
-    ], 
-    [
-        "\ud83c\udf43", 
-        "Leaf Fluttering In Wind"
-    ], 
-    [
-        "\ud83c\udf42", 
-        "Fallen Leaf"
-    ], 
-    [
-        "\ud83c\udf3f", 
-        "Herb"
-    ], 
-    [
-        "\ud83c\udf3e", 
-        "Ear Of Rice"
-    ], 
-    [
-        "\ud83c\udf44", 
-        "Mushroom"
-    ], 
-    [
-        "\ud83c\udf35", 
-        "Cactus"
-    ], 
-    [
-        "\ud83c\udf34", 
-        "Palm Tree"
-    ], 
-    [
-        "\ud83c\udf32", 
-        "Evergreen Tree"
-    ], 
-    [
-        "\ud83c\udf33", 
-        "Deciduous Tree"
-    ], 
-    [
-        "\ud83c\udf30", 
-        "Chestnut"
-    ], 
-    [
-        "\ud83c\udf31", 
-        "Seedling"
-    ], 
-    [
-        "\ud83c\udf3c", 
-        "Blossom"
-    ], 
-    [
-        "\ud83c\udf10", 
-        "Globe With Meridians"
-    ], 
-    [
-        "\ud83c\udf1e", 
-        "Sun With Face"
-    ], 
-    [
-        "\ud83c\udf1d", 
-        "Full Moon With Face"
-    ], 
-    [
-        "\ud83c\udf1a", 
-        "New Moon With Face"
-    ], 
-    [
-        "\ud83c\udf11", 
-        "New Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf12", 
-        "Waxing Crescent Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf13", 
-        "First Quarter Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf14", 
-        "Waxing Gibbous Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf15", 
-        "Full Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf16", 
-        "Waning Gibbous Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf17", 
-        "Last Quarter Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf18", 
-        "Waning Crescent Moon Symbol"
-    ], 
-    [
-        "\ud83c\udf1c", 
-        "Last Quarter Moon With Face"
-    ], 
-    [
-        "\ud83c\udf1b", 
-        "First Quarter Moon With Face"
-    ], 
-    [
-        "\ud83c\udf19", 
-        "Crescent Moon"
-    ], 
-    [
-        "\ud83c\udf0d", 
-        "Earth Globe Europe-Africa"
-    ], 
-    [
-        "\ud83c\udf0e", 
-        "Earth Globe Americas"
-    ], 
-    [
-        "\ud83c\udf0f", 
-        "Earth Globe Asia-Australia"
-    ], 
-    [
-        "\ud83c\udf0b", 
-        "Volcano"
-    ], 
-    [
-        "\ud83c\udf0c", 
-        "Milky Way"
-    ], 
-    [
-        "\ud83c\udf20", 
-        "Shooting Star"
-    ], 
-    [
-        "\u2b50", 
-        "White Medium Star"
-    ], 
-    [
-        "\u2600", 
-        "Black Sun With Rays"
-    ], 
-    [
-        "\u26c5", 
-        "Sun Behind Cloud"
-    ], 
-    [
-        "\u2601", 
-        "Cloud"
-    ], 
-    [
-        "\u26a1", 
-        "High Voltage Sign"
-    ], 
-    [
-        "\u2614", 
-        "Umbrella With Rain Drops"
-    ], 
-    [
-        "\u2744", 
-        "Snowflake"
-    ], 
-    [
-        "\u26c4", 
-        "Snowman Without Snow"
-    ], 
-    [
-        "\ud83c\udf00", 
-        "Cyclone"
-    ], 
-    [
-        "\ud83c\udf01", 
-        "Foggy"
-    ], 
-    [
-        "\ud83c\udf08", 
-        "Rainbow"
-    ], 
-    [
-        "\ud83c\udf0a", 
-        "Water Wave"
-    ], 
-    [
-        "\ud83c\udf83", 
-        "Jack-O-Lantern"
-    ], 
-    [
-        "\ud83d\udc7b", 
-        "Ghost"
-    ], 
-    [
-        "\ud83c\udf85", 
-        "Father Christmas"
-    ], 
-    [
-        "\ud83c\udf84", 
-        "Christmas Tree"
-    ], 
-    [
-        "\ud83c\udf81", 
-        "Wrapped Present"
-    ], 
-    [
-        "\ud83c\udf8b", 
-        "Tanabata Tree"
-    ], 
-    [
-        "\ud83c\udf89", 
-        "Party Popper"
-    ], 
-    [
-        "\ud83c\udf8a", 
-        "Confetti Ball"
-    ], 
-    [
-        "\ud83c\udf88", 
-        "Balloon"
-    ], 
-    [
-        "\ud83c\udf8c", 
-        "Crossed Flags"
-    ], 
-    [
-        "\ud83d\udd2e", 
-        "Crystal Ball"
-    ], 
-    [
-        "\ud83c\udfa5", 
-        "Movie Camera"
-    ], 
-    [
-        "\ud83d\udcf7", 
-        "Camera"
-    ], 
-    [
-        "\ud83d\udcf9", 
-        "Video Camera"
-    ], 
-    [
-        "\ud83d\udcfc", 
-        "Videocassette"
-    ], 
-    [
-        "\ud83d\udcbf", 
-        "Optical Disc"
-    ], 
-    [
-        "\ud83d\udcc0", 
-        "DVD"
-    ], 
-    [
-        "\ud83d\udcbd", 
-        "Minidisc"
-    ], 
-    [
-        "\ud83d\udcbe", 
-        "Floppy Disk"
-    ], 
-    [
-        "\ud83d\udcbb", 
-        "Personal Computer"
-    ], 
-    [
-        "\ud83d\udcf1", 
-        "Mobile Phone"
-    ], 
-    [
-        "\u260e", 
-        "Black Telephone"
-    ], 
-    [
-        "\ud83d\udcde", 
-        "Telephone Receiver"
-    ], 
-    [
-        "\ud83d\udcdf", 
-        "Pager"
-    ], 
-    [
-        "\ud83d\udce0", 
-        "Fax Machine"
-    ], 
-    [
-        "\ud83d\udce1", 
-        "Satellite Antenna"
-    ], 
-    [
-        "\ud83d\udcfa", 
-        "Television"
-    ], 
-    [
-        "\ud83d\udcfb", 
-        "Radio"
-    ], 
-    [
-        "\ud83d\udd0a", 
-        "Speaker With Three Sound Waves"
-    ], 
-    [
-        "\ud83d\udd09", 
-        "Speaker With One Sound Wave"
-    ], 
-    [
-        "\ud83d\udd08", 
-        "Speaker"
-    ], 
-    [
-        "\ud83d\udd07", 
-        "Speaker With Cancellation Stroke"
-    ], 
-    [
-        "\ud83d\udd14", 
-        "Bell"
-    ], 
-    [
-        "\ud83d\udd15", 
-        "Bell With Cancellation Stroke"
-    ], 
-    [
-        "\ud83d\udce2", 
-        "Public Address Loudspeaker"
-    ], 
-    [
-        "\ud83d\udce3", 
-        "Cheering Megaphone"
-    ], 
-    [
-        "\u23f3", 
-        "Hourglass With Flowing Sand"
-    ], 
-    [
-        "\u231b", 
-        "Hourglass"
-    ], 
-    [
-        "\u23f0", 
-        "Alarm Clock"
-    ], 
-    [
-        "\u231a", 
-        "Watch"
-    ], 
-    [
-        "\ud83d\udd13", 
-        "Open Lock"
-    ], 
-    [
-        "\ud83d\udd12", 
-        "Lock"
-    ], 
-    [
-        "\ud83d\udd0f", 
-        "Lock With Ink Pen"
-    ], 
-    [
-        "\ud83d\udd10", 
-        "Closed Lock With Key"
-    ], 
-    [
-        "\ud83d\udd11", 
-        "Key"
-    ], 
-    [
-        "\ud83d\udd0e", 
-        "Right-Pointing Magnifying Glass"
-    ], 
-    [
-        "\ud83d\udca1", 
-        "Electric Light Bulb"
-    ], 
-    [
-        "\ud83d\udd26", 
-        "Electric Torch"
-    ], 
-    [
-        "\ud83d\udd06", 
-        "High Brightness Symbol"
-    ], 
-    [
-        "\ud83d\udd05", 
-        "Low Brightness Symbol"
-    ], 
-    [
-        "\ud83d\udd0c", 
-        "Electric Plug"
-    ], 
-    [
-        "\ud83d\udd0b", 
-        "Battery"
-    ], 
-    [
-        "\ud83d\udd0d", 
-        "Left-Pointing Magnifying Glass"
-    ], 
-    [
-        "\ud83d\udec1", 
-        "Bathtub"
-    ], 
-    [
-        "\ud83d\udec0", 
-        "Bath"
-    ], 
-    [
-        "\ud83d\udebf", 
-        "Shower"
-    ], 
-    [
-        "\ud83d\udebd", 
-        "Toilet"
-    ], 
-    [
-        "\ud83d\udd27", 
-        "Wrench"
-    ], 
-    [
-        "\ud83d\udd29", 
-        "Nut And Bolt"
-    ], 
-    [
-        "\ud83d\udd28", 
-        "Hammer"
-    ], 
-    [
-        "\ud83d\udeaa", 
-        "Door"
-    ], 
-    [
-        "\ud83d\udeac", 
-        "Smoking Symbol"
-    ], 
-    [
-        "\ud83d\udca3", 
-        "Bomb"
-    ], 
-    [
-        "\ud83d\udd2b", 
-        "Pistol"
-    ], 
-    [
-        "\ud83d\udd2a", 
-        "Hocho"
-    ], 
-    [
-        "\ud83d\udc8a", 
-        "Pill"
-    ], 
-    [
-        "\ud83d\udc89", 
-        "Syringe"
-    ], 
-    [
-        "\ud83d\udcb0", 
-        "Money Bag"
-    ], 
-    [
-        "\ud83d\udcb4", 
-        "Banknote With Yen Sign"
-    ], 
-    [
-        "\ud83d\udcb5", 
-        "Banknote With Dollar Sign"
-    ], 
-    [
-        "\ud83d\udcb7", 
-        "Banknote With Pound Sign"
-    ], 
-    [
-        "\ud83d\udcb6", 
-        "Banknote With Euro Sign"
-    ], 
-    [
-        "\ud83d\udcb3", 
-        "Credit Card"
-    ], 
-    [
-        "\ud83d\udcb8", 
-        "Money With Wings"
-    ], 
-    [
-        "\ud83d\udcf2", 
-        "Mobile Phone With Rightwards Arrow At Left"
-    ], 
-    [
-        "\ud83d\udce7", 
-        "E-Mail Symbol"
-    ], 
-    [
-        "\ud83d\udce5", 
-        "Inbox Tray"
-    ], 
-    [
-        "\ud83d\udce4", 
-        "Outbox Tray"
-    ], 
-    [
-        "\u2709", 
-        "Envelope"
-    ], 
-    [
-        "\ud83d\udce9", 
-        "Envelope With Downwards Arrow Above"
-    ], 
-    [
-        "\ud83d\udce8", 
-        "Incoming Envelope"
-    ], 
-    [
-        "\ud83d\udcef", 
-        "Postal Horn"
-    ], 
-    [
-        "\ud83d\udceb", 
-        "Closed Mailbox With Raised Flag"
-    ], 
-    [
-        "\ud83d\udcea", 
-        "Closed Mailbox With Lowered Flag"
-    ], 
-    [
-        "\ud83d\udcec", 
-        "Open Mailbox With Raised Flag"
-    ], 
-    [
-        "\ud83d\udced", 
-        "Open Mailbox With Lowered Flag"
-    ], 
-    [
-        "\ud83d\udcee", 
-        "Postbox"
-    ], 
-    [
-        "\ud83d\udce6", 
-        "Package"
-    ], 
-    [
-        "\ud83d\udcdd", 
-        "Memo"
-    ], 
-    [
-        "\ud83d\udcc4", 
-        "Page Facing Up"
-    ], 
-    [
-        "\ud83d\udcc3", 
-        "Page With Curl"
-    ], 
-    [
-        "\ud83d\udcd1", 
-        "Bookmark Tabs"
-    ], 
-    [
-        "\ud83d\udcca", 
-        "Bar Chart"
-    ], 
-    [
-        "\ud83d\udcc8", 
-        "Chart With Upwards Trend"
-    ], 
-    [
-        "\ud83d\udcc9", 
-        "Chart With Downwards Trend"
-    ], 
-    [
-        "\ud83d\udcdc", 
-        "Scroll"
-    ], 
-    [
-        "\ud83d\udccb", 
-        "Clipboard"
-    ], 
-    [
-        "\ud83d\udcc5", 
-        "Calendar"
-    ], 
-    [
-        "\ud83d\udcc6", 
-        "Tear-Off Calendar"
-    ], 
-    [
-        "\ud83d\udcc7", 
-        "Card Index"
-    ], 
-    [
-        "\ud83d\udcc1", 
-        "File Folder"
-    ], 
-    [
-        "\ud83d\udcc2", 
-        "Open File Folder"
-    ], 
-    [
-        "\u2702", 
-        "Black Scissors"
-    ], 
-    [
-        "\ud83d\udccc", 
-        "Pushpin"
-    ], 
-    [
-        "\ud83d\udcce", 
-        "Paperclip"
-    ], 
-    [
-        "\u2712", 
-        "Black Nib"
-    ], 
-    [
-        "\u270f", 
-        "Pencil"
-    ], 
-    [
-        "\ud83d\udccf", 
-        "Straight Ruler"
-    ], 
-    [
-        "\ud83d\udcd0", 
-        "Triangular Ruler"
-    ], 
-    [
-        "\ud83d\udcd5", 
-        "Closed Book"
-    ], 
-    [
-        "\ud83d\udcd7", 
-        "Green Book"
-    ], 
-    [
-        "\ud83d\udcd8", 
-        "Blue Book"
-    ], 
-    [
-        "\ud83d\udcd9", 
-        "Orange Book"
-    ], 
-    [
-        "\ud83d\udcd3", 
-        "Notebook"
-    ], 
-    [
-        "\ud83d\udcd4", 
-        "Notebook With Decorative Cover"
-    ], 
-    [
-        "\ud83d\udcd2", 
-        "Ledger"
-    ], 
-    [
-        "\ud83d\udcda", 
-        "Books"
-    ], 
-    [
-        "\ud83d\udcd6", 
-        "Open Book"
-    ], 
-    [
-        "\ud83d\udd16", 
-        "Bookmark"
-    ], 
-    [
-        "\ud83d\udcdb", 
-        "Name Badge"
-    ], 
-    [
-        "\ud83d\udd2c", 
-        "Microscope"
-    ], 
-    [
-        "\ud83d\udd2d", 
-        "Telescope"
-    ], 
-    [
-        "\ud83d\udcf0", 
-        "Newspaper"
-    ], 
-    [
-        "\ud83c\udfa8", 
-        "Artist Palette"
-    ], 
-    [
-        "\ud83c\udfac", 
-        "Clapper Board"
-    ], 
-    [
-        "\ud83c\udfa4", 
-        "Microphone"
-    ], 
-    [
-        "\ud83c\udfa7", 
-        "Headphone"
-    ], 
-    [
-        "\ud83c\udfbc", 
-        "Musical Score"
-    ], 
-    [
-        "\ud83c\udfb5", 
-        "Musical Note"
-    ], 
-    [
-        "\ud83c\udfb6", 
-        "Multiple Musical Notes"
-    ], 
-    [
-        "\ud83c\udfb9", 
-        "Musical Keyboard"
-    ], 
-    [
-        "\ud83c\udfbb", 
-        "Violin"
-    ], 
-    [
-        "\ud83c\udfba", 
-        "Trumpet"
-    ], 
-    [
-        "\ud83c\udfb7", 
-        "Saxophone"
-    ], 
-    [
-        "\ud83c\udfb8", 
-        "Guitar"
-    ], 
-    [
-        "\ud83d\udc7e", 
-        "Alien Monster"
-    ], 
-    [
-        "\ud83c\udfae", 
-        "Video Game"
-    ], 
-    [
-        "\ud83c\udccf", 
-        "Playing Card Black Joker"
-    ], 
-    [
-        "\ud83c\udfb4", 
-        "Flower Playing Cards"
-    ], 
-    [
-        "\ud83c\udc04", 
-        "Mahjong Tile Red Dragon"
-    ], 
-    [
-        "\ud83c\udfb2", 
-        "Game Die"
-    ], 
-    [
-        "\ud83c\udfaf", 
-        "Direct Hit"
-    ], 
-    [
-        "\ud83c\udfc8", 
-        "American Football"
-    ], 
-    [
-        "\ud83c\udfc0", 
-        "Basketball And Hoop"
-    ], 
-    [
-        "\u26bd", 
-        "Soccer Ball"
-    ], 
-    [
-        "\u26be", 
-        "Baseball"
-    ], 
-    [
-        "\ud83c\udfbe", 
-        "Tennis Racquet And Ball"
-    ], 
-    [
-        "\ud83c\udfb1", 
-        "Billiards"
-    ], 
-    [
-        "\ud83c\udfc9", 
-        "Rugby Football"
-    ], 
-    [
-        "\ud83c\udfb3", 
-        "Bowling"
-    ], 
-    [
-        "\u26f3", 
-        "Flag In Hole"
-    ], 
-    [
-        "\ud83d\udeb5", 
-        "Mountain Bicyclist"
-    ], 
-    [
-        "\ud83d\udeb4", 
-        "Bicyclist"
-    ], 
-    [
-        "\ud83c\udfc1", 
-        "Chequered Flag"
-    ], 
-    [
-        "\ud83c\udfc7", 
-        "Horse Racing"
-    ], 
-    [
-        "\ud83c\udfc6", 
-        "Trophy"
-    ], 
-    [
-        "\ud83c\udfbf", 
-        "Ski And Ski Boot"
-    ], 
-    [
-        "\ud83c\udfc2", 
-        "Snowboarder"
-    ], 
-    [
-        "\ud83c\udfca", 
-        "Swimmer"
-    ], 
-    [
-        "\ud83c\udfc4", 
-        "Surfer"
-    ], 
-    [
-        "\ud83c\udfa3", 
-        "Fishing Pole And Fish"
-    ], 
-    [
-        "\u2615", 
-        "Hot Beverage"
-    ], 
-    [
-        "\ud83c\udf75", 
-        "Teacup Without Handle"
-    ], 
-    [
-        "\ud83c\udf76", 
-        "Sake Bottle And Cup"
-    ], 
-    [
-        "\ud83c\udf7c", 
-        "Baby Bottle"
-    ], 
-    [
-        "\ud83c\udf7a", 
-        "Beer Mug"
-    ], 
-    [
-        "\ud83c\udf7b", 
-        "Clinking Beer Mugs"
-    ], 
-    [
-        "\ud83c\udf78", 
-        "Cocktail Glass"
-    ], 
-    [
-        "\ud83c\udf79", 
-        "Tropical Drink"
-    ], 
-    [
-        "\ud83c\udf77", 
-        "Wine Glass"
-    ], 
-    [
-        "\ud83c\udf74", 
-        "Fork And Knife"
-    ], 
-    [
-        "\ud83c\udf55", 
-        "Slice Of Pizza"
-    ], 
-    [
-        "\ud83c\udf54", 
-        "Hamburger"
-    ], 
-    [
-        "\ud83c\udf5f", 
-        "French Fries"
-    ], 
-    [
-        "\ud83c\udf57", 
-        "Poultry Leg"
-    ], 
-    [
-        "\ud83c\udf56", 
-        "Meat On Bone"
-    ], 
-    [
-        "\ud83c\udf5d", 
-        "Spaghetti"
-    ], 
-    [
-        "\ud83c\udf5b", 
-        "Curry And Rice"
-    ], 
-    [
-        "\ud83c\udf64", 
-        "Fried Shrimp"
-    ], 
-    [
-        "\ud83c\udf71", 
-        "Bento Box"
-    ], 
-    [
-        "\ud83c\udf63", 
-        "Sushi"
-    ], 
-    [
-        "\ud83c\udf65", 
-        "Fish Cake With Swirl Design"
-    ], 
-    [
-        "\ud83c\udf59", 
-        "Rice Ball"
-    ], 
-    [
-        "\ud83c\udf58", 
-        "Rice Cracker"
-    ], 
-    [
-        "\ud83c\udf5a", 
-        "Cooked Rice"
-    ], 
-    [
-        "\ud83c\udf5c", 
-        "Steaming Bowl"
-    ], 
-    [
-        "\ud83c\udf72", 
-        "Pot Of Food"
-    ], 
-    [
-        "\ud83c\udf62", 
-        "Oden"
-    ], 
-    [
-        "\ud83c\udf61", 
-        "Dango"
-    ], 
-    [
-        "\ud83c\udf73", 
-        "Cooking"
-    ], 
-    [
-        "\ud83c\udf5e", 
-        "Bread"
-    ], 
-    [
-        "\ud83c\udf69", 
-        "Doughnut"
-    ], 
-    [
-        "\ud83c\udf6e", 
-        "Custard"
-    ], 
-    [
-        "\ud83c\udf66", 
-        "Soft Ice Cream"
-    ], 
-    [
-        "\ud83c\udf68", 
-        "Ice Cream"
-    ], 
-    [
-        "\ud83c\udf67", 
-        "Shaved Ice"
-    ], 
-    [
-        "\ud83c\udf82", 
-        "Birthday Cake"
-    ], 
-    [
-        "\ud83c\udf70", 
-        "Shortcake"
-    ], 
-    [
-        "\ud83c\udf6a", 
-        "Cookie"
-    ], 
-    [
-        "\ud83c\udf6b", 
-        "Chocolate Bar"
-    ], 
-    [
-        "\ud83c\udf6c", 
-        "Candy"
-    ], 
-    [
-        "\ud83c\udf6d", 
-        "Lollipop"
-    ], 
-    [
-        "\ud83c\udf6f", 
-        "Honey Pot"
-    ], 
-    [
-        "\ud83c\udf4e", 
-        "Red Apple"
-    ], 
-    [
-        "\ud83c\udf4f", 
-        "Green Apple"
-    ], 
-    [
-        "\ud83c\udf4a", 
-        "Tangerine"
-    ], 
-    [
-        "\ud83c\udf4b", 
-        "Lemon"
-    ], 
-    [
-        "\ud83c\udf52", 
-        "Cherries"
-    ], 
-    [
-        "\ud83c\udf47", 
-        "Grapes"
-    ], 
-    [
-        "\ud83c\udf49", 
-        "Watermelon"
-    ], 
-    [
-        "\ud83c\udf53", 
-        "Strawberry"
-    ], 
-    [
-        "\ud83c\udf51", 
-        "Peach"
-    ], 
-    [
-        "\ud83c\udf48", 
-        "Melon"
-    ], 
-    [
-        "\ud83c\udf4c", 
-        "Banana"
-    ], 
-    [
-        "\ud83c\udf50", 
-        "Pear"
-    ], 
-    [
-        "\ud83c\udf4d", 
-        "Pineapple"
-    ], 
-    [
-        "\ud83c\udf60", 
-        "Roasted Sweet Potato"
-    ], 
-    [
-        "\ud83c\udf46", 
-        "Aubergine"
-    ], 
-    [
-        "\ud83c\udf45", 
-        "Tomato"
-    ], 
-    [
-        "\ud83c\udf3d", 
-        "Ear Of Maize"
-    ], 
-    [
-        "\ud83c\udfe0", 
-        "House Building"
-    ], 
-    [
-        "\ud83c\udfe1", 
-        "House With Garden"
-    ], 
-    [
-        "\ud83c\udfeb", 
-        "School"
-    ], 
-    [
-        "\ud83c\udfe2", 
-        "Office Building"
-    ], 
-    [
-        "\ud83c\udfe3", 
-        "Japanese Post Office"
-    ], 
-    [
-        "\ud83c\udfe5", 
-        "Hospital"
-    ], 
-    [
-        "\ud83c\udfe6", 
-        "Bank"
-    ], 
-    [
-        "\ud83c\udfea", 
-        "Convenience Store"
-    ], 
-    [
-        "\ud83c\udfe9", 
-        "Love Hotel"
-    ], 
-    [
-        "\ud83c\udfe8", 
-        "Hotel"
-    ], 
-    [
-        "\ud83d\udc92", 
-        "Wedding"
-    ], 
-    [
-        "\u26ea", 
-        "Church"
-    ], 
-    [
-        "\ud83c\udfec", 
-        "Department Store"
-    ], 
-    [
-        "\ud83c\udfe4", 
-        "European Post Office"
-    ], 
-    [
-        "\ud83c\udf07", 
-        "Sunset Over Buildings"
-    ], 
-    [
-        "\ud83c\udf06", 
-        "Cityscape At Dusk"
-    ], 
-    [
-        "\ud83c\udfef", 
-        "Japanese Castle"
-    ], 
-    [
-        "\ud83c\udff0", 
-        "European Castle"
-    ], 
-    [
-        "\u26fa", 
-        "Tent"
-    ], 
-    [
-        "\ud83c\udfed", 
-        "Factory"
-    ], 
-    [
-        "\ud83d\uddfc", 
-        "Tokyo Tower"
-    ], 
-    [
-        "\ud83d\uddfe", 
-        "Silhouette Of Japan"
-    ], 
-    [
-        "\ud83d\uddfb", 
-        "Mount Fuji"
-    ], 
-    [
-        "\ud83c\udf04", 
-        "Sunrise Over Mountains"
-    ], 
-    [
-        "\ud83c\udf05", 
-        "Sunrise"
-    ], 
-    [
-        "\ud83c\udf03", 
-        "Night With Stars"
-    ], 
-    [
-        "\ud83d\uddfd", 
-        "Statue Of Liberty"
-    ], 
-    [
-        "\ud83c\udf09", 
-        "Bridge At Night"
-    ], 
-    [
-        "\ud83c\udfa0", 
-        "Carousel Horse"
-    ], 
-    [
-        "\ud83c\udfa1", 
-        "Ferris Wheel"
-    ], 
-    [
-        "\u26f2", 
-        "Fountain"
-    ], 
-    [
-        "\ud83c\udfa2", 
-        "Roller Coaster"
-    ], 
-    [
-        "\ud83d\udea2", 
-        "Ship"
-    ], 
-    [
-        "\u26f5", 
-        "Sailboat"
-    ], 
-    [
-        "\ud83d\udea4", 
-        "Speedboat"
-    ], 
-    [
-        "\ud83d\udea3", 
-        "Rowboat"
-    ], 
-    [
-        "\u2693", 
-        "Anchor"
-    ], 
-    [
-        "\ud83d\ude80", 
-        "Rocket"
-    ], 
-    [
-        "\u2708", 
-        "Airplane"
-    ], 
-    [
-        "\ud83d\udcba", 
-        "Seat"
-    ], 
-    [
-        "\ud83d\ude81", 
-        "Helicopter"
-    ], 
-    [
-        "\ud83d\ude82", 
-        "Steam Locomotive"
-    ], 
-    [
-        "\ud83d\ude8a", 
-        "Tram"
-    ], 
-    [
-        "\ud83d\ude89", 
-        "Station"
-    ], 
-    [
-        "\ud83d\ude9e", 
-        "Mountain Railway"
-    ], 
-    [
-        "\ud83d\ude86", 
-        "Train"
-    ], 
-    [
-        "\ud83d\ude84", 
-        "High-Speed Train"
-    ], 
-    [
-        "\ud83d\ude85", 
-        "High-Speed Train With Bullet Nose"
-    ], 
-    [
-        "\ud83d\ude88", 
-        "Light Rail"
-    ], 
-    [
-        "\ud83d\ude87", 
-        "Metro"
-    ], 
-    [
-        "\ud83d\ude9d", 
-        "Monorail"
-    ], 
-    [
-        "\ud83d\ude8b", 
-        "Tram Car"
-    ], 
-    [
-        "\ud83d\ude83", 
-        "Railway Car"
-    ], 
-    [
-        "\ud83d\ude8e", 
-        "Trolleybus"
-    ], 
-    [
-        "\ud83d\ude8c", 
-        "Bus"
-    ], 
-    [
-        "\ud83d\ude8d", 
-        "Oncoming Bus"
-    ], 
-    [
-        "\ud83d\ude99", 
-        "Recreational Vehicle"
-    ], 
-    [
-        "\ud83d\ude98", 
-        "Oncoming Automobile"
-    ], 
-    [
-        "\ud83d\ude97", 
-        "Automobile"
-    ], 
-    [
-        "\ud83d\ude95", 
-        "Taxi"
-    ], 
-    [
-        "\ud83d\ude96", 
-        "Oncoming Taxi"
-    ], 
-    [
-        "\ud83d\ude9b", 
-        "Articulated Lorry"
-    ], 
-    [
-        "\ud83d\ude9a", 
-        "Delivery Truck"
-    ], 
-    [
-        "\ud83d\udea8", 
-        "Police Cars Revolving Light"
-    ], 
-    [
-        "\ud83d\ude93", 
-        "Police Car"
-    ], 
-    [
-        "\ud83d\ude94", 
-        "Oncoming Police Car"
-    ], 
-    [
-        "\ud83d\ude92", 
-        "Fire Engine"
-    ], 
-    [
-        "\ud83d\ude91", 
-        "Ambulance"
-    ], 
-    [
-        "\ud83d\ude90", 
-        "Minibus"
-    ], 
-    [
-        "\ud83d\udeb2", 
-        "Bicycle"
-    ], 
-    [
-        "\ud83d\udea1", 
-        "Aerial Tramway"
-    ], 
-    [
-        "\ud83d\ude9f", 
-        "Suspension Railway"
-    ], 
-    [
-        "\ud83d\udea0", 
-        "Mountain Cableway"
-    ], 
-    [
-        "\ud83d\ude9c", 
-        "Tractor"
-    ], 
-    [
-        "\ud83d\udc88", 
-        "Barber Pole"
-    ], 
-    [
-        "\ud83d\ude8f", 
-        "Bus Stop"
-    ], 
-    [
-        "\ud83c\udfab", 
-        "Ticket"
-    ], 
-    [
-        "\ud83d\udea6", 
-        "Vertical Traffic Light"
-    ], 
-    [
-        "\ud83d\udea5", 
-        "Horizontal Traffic Light"
-    ], 
-    [
-        "\u26a0", 
-        "Warning Sign"
-    ], 
-    [
-        "\ud83d\udea7", 
-        "Construction Sign"
-    ], 
-    [
-        "\ud83d\udd30", 
-        "Japanese Symbol For Beginner"
-    ], 
-    [
-        "\u26fd", 
-        "Fuel Pump"
-    ], 
-    [
-        "\ud83c\udfee", 
-        "Izakaya Lantern"
-    ], 
-    [
-        "\ud83c\udfb0", 
-        "Slot Machine"
-    ], 
-    [
-        "\u2668", 
-        "Hot Springs"
-    ], 
-    [
-        "\ud83d\uddff", 
-        "Moyai"
-    ], 
-    [
-        "\ud83c\udfaa", 
-        "Circus Tent"
-    ], 
-    [
-        "\ud83c\udfad", 
-        "Performing Arts"
-    ], 
-    [
-        "\ud83d\udccd", 
-        "Round Pushpin"
-    ], 
-    [
-        "\ud83d\udea9", 
-        "Triangular Flag On Post"
-    ], 
-    [
-        "1\u20e3", 
-        "Keycap 1"
-    ], 
-    [
-        "2\u20e3", 
-        "Keycap 2"
-    ], 
-    [
-        "3\u20e3", 
-        "Keycap 3"
-    ], 
-    [
-        "4\u20e3", 
-        "Keycap 4"
-    ], 
-    [
-        "5\u20e3", 
-        "Keycap 5"
-    ], 
-    [
-        "6\u20e3", 
-        "Keycap 6"
-    ], 
-    [
-        "7\u20e3", 
-        "Keycap 7"
-    ], 
-    [
-        "8\u20e3", 
-        "Keycap 8"
-    ], 
-    [
-        "9\u20e3", 
-        "Keycap 9"
-    ], 
-    [
-        "0\u20e3", 
-        "Keycap 0"
-    ], 
-    [
-        "\ud83d\udd1f", 
-        "Keycap Ten"
-    ], 
-    [
-        "\ud83d\udd22", 
-        "Input Symbol For Numbers"
-    ], 
-    [
-        "#\u20e3", 
-        "  Hash Key"
-    ], 
-    [
-        "\ud83d\udd23", 
-        "Input Symbol For Symbols"
-    ], 
-    [
-        "\u2b06", 
-        "Upwards Black Arrow"
-    ], 
-    [
-        "\u2b07", 
-        "Downwards Black Arrow"
-    ], 
-    [
-        "\u2b05", 
-        "Leftwards Black Arrow"
-    ], 
-    [
-        "\u27a1", 
-        "Black Rightwards Arrow"
-    ], 
-    [
-        "\ud83d\udd20", 
-        "Input Symbol For Latin Capital Letters"
-    ], 
-    [
-        "\ud83d\udd21", 
-        "Input Symbol For Latin Small Letters"
-    ], 
-    [
-        "\ud83d\udd24", 
-        "Input Symbol For Latin Letters"
-    ], 
-    [
-        "\u2197", 
-        "North East Arrow"
-    ], 
-    [
-        "\u2196", 
-        "North West Arrow"
-    ], 
-    [
-        "\u2198", 
-        "South East Arrow"
-    ], 
-    [
-        "\u2199", 
-        "South West Arrow"
-    ], 
-    [
-        "\u2194", 
-        "Left Right Arrow"
-    ], 
-    [
-        "\u2195", 
-        "Up Down Arrow"
-    ], 
-    [
-        "\ud83d\udd04", 
-        "Anticlockwise Downwards And Upwards"
-    ], 
-    [
-        "\u25c0", 
-        "Black Left-Pointing Triangle"
-    ], 
-    [
-        "\u25b6", 
-        "Black Right-Pointing Triangle"
-    ], 
-    [
-        "\ud83d\udd3c", 
-        "Up-Pointing Small Red Triangle"
-    ], 
-    [
-        "\ud83d\udd3d", 
-        "Down-Pointing Small Red Triangle"
-    ], 
-    [
-        "\u21a9", 
-        "Leftwards Arrow With Hook"
-    ], 
-    [
-        "\u21aa", 
-        "Rightwards Arrow With Hook"
-    ], 
-    [
-        "\u2139", 
-        "Information Source"
-    ], 
-    [
-        "\u23ea", 
-        "Black Left-Pointing Double Triangle"
-    ], 
-    [
-        "\u23e9", 
-        "Black Right-Pointing Double Triangle"
-    ], 
-    [
-        "\u23eb", 
-        "Black Up-Pointing Double Triangle"
-    ], 
-    [
-        "\u23ec", 
-        "Black Down-Pointing Double Triangle"
-    ], 
-    [
-        "\u2935", 
-        "Arrow Pointing Rightwards Then Curving Downwards"
-    ], 
-    [
-        "\u2934", 
-        "Arrow Pointing Rightwards Then Curving Upwards"
-    ], 
-    [
-        "\ud83c\udd97", 
-        "Squared OK"
-    ], 
-    [
-        "\ud83d\udd00", 
-        "Twisted Rightwards Arrows"
-    ], 
-    [
-        "\ud83d\udd01", 
-        "Clockwise Rightwards And Leftwards Open Circle Arrows"
-    ], 
-    [
-        "\ud83d\udd02", 
-        "Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay"
-    ], 
-    [
-        "\ud83c\udd95", 
-        "Squared New"
-    ], 
-    [
-        "\ud83c\udd99", 
-        "Squared Up With Exclamation Mark"
-    ], 
-    [
-        "\ud83c\udd92", 
-        "Squared Cool"
-    ], 
-    [
-        "\ud83c\udd93", 
-        "Squared Free"
-    ], 
-    [
-        "\ud83c\udd96", 
-        "Squared Ng"
-    ], 
-    [
-        "\ud83d\udcf6", 
-        "Antenna With Bars"
-    ], 
-    [
-        "\ud83c\udfa6", 
-        "Cinema"
-    ], 
-    [
-        "\ud83c\ude01", 
-        "Squared Katakana Koko"
-    ], 
-    [
-        "\ud83c\ude2f", 
-        "Squared CJK Unified Ideograph-6307"
-    ], 
-    [
-        "\ud83c\ude33", 
-        "Squared CJK Unified Ideograph-7A7A"
-    ], 
-    [
-        "\ud83c\ude35", 
-        "Squared CJK Unified Ideograph-6E80"
-    ], 
-    [
-        "\ud83c\ude34", 
-        "Squared CJK Unified Ideograph-5408"
-    ], 
-    [
-        "\ud83c\ude32", 
-        "Squared CJK Unified Ideograph-7981"
-    ], 
-    [
-        "\ud83c\ude50", 
-        "Circled Ideograph Advantage"
-    ], 
-    [
-        "\ud83c\ude39", 
-        "Squared CJK Unified Ideograph-5272"
-    ], 
-    [
-        "\ud83c\ude3a", 
-        "Squared CJK Unified Ideograph-55B6"
-    ], 
-    [
-        "\ud83c\ude36", 
-        "Squared CJK Unified Ideograph-6709"
-    ], 
-    [
-        "\ud83c\ude1a", 
-        "Squared CJK Unified Ideograph-7121"
-    ], 
-    [
-        "\ud83d\udebb", 
-        "Restroom"
-    ], 
-    [
-        "\ud83d\udeb9", 
-        "Mens Symbol"
-    ], 
-    [
-        "\ud83d\udeba", 
-        "Womens Symbol"
-    ], 
-    [
-        "\ud83d\udebc", 
-        "Baby Symbol"
-    ], 
-    [
-        "\ud83d\udebe", 
-        "Water Closet"
-    ], 
-    [
-        "\ud83d\udeb0", 
-        "Potable Water Symbol"
-    ], 
-    [
-        "\ud83d\udeae", 
-        "Put Litter In Its Place Symbol"
-    ], 
-    [
-        "\ud83c\udd7f", 
-        "Negative Squared Latin Capital Letter P"
-    ], 
-    [
-        "\u267f", 
-        "Wheelchair Symbol"
-    ], 
-    [
-        "\ud83d\udead", 
-        "No Smoking Symbol"
-    ], 
-    [
-        "\ud83c\ude37", 
-        "Squared CJK Unified Ideograph-6708"
-    ], 
-    [
-        "\ud83c\ude38", 
-        "Squared CJK Unified Ideograph-7533"
-    ], 
-    [
-        "\ud83c\ude02", 
-        "Squared Katakana Sa"
-    ], 
-    [
-        "\u24c2", 
-        "Circled Latin Capital Letter M"
-    ], 
-    [
-        "\ud83d\udec2", 
-        "Passport Control"
-    ], 
-    [
-        "\ud83d\udec4", 
-        "Baggage Claim"
-    ], 
-    [
-        "\ud83d\udec5", 
-        "Left Luggage"
-    ], 
-    [
-        "\ud83d\udec3", 
-        "Customs"
-    ], 
-    [
-        "\ud83c\ude51", 
-        "Circled Ideograph Accept"
-    ], 
-    [
-        "\u3299", 
-        "Circled Ideograph Secret"
-    ], 
-    [
-        "\u3297", 
-        "Circled Ideograph Congratulation"
-    ], 
-    [
-        "\ud83c\udd91", 
-        "Squared CL"
-    ], 
-    [
-        "\ud83c\udd98", 
-        "Squared SOS"
-    ], 
-    [
-        "\ud83c\udd94", 
-        "Squared ID"
-    ], 
-    [
-        "\ud83d\udeab", 
-        "No Entry Sign"
-    ], 
-    [
-        "\ud83d\udd1e", 
-        "No One Under Eighteen Symbol"
-    ], 
-    [
-        "\ud83d\udcf5", 
-        "No Mobile Phones"
-    ], 
-    [
-        "\ud83d\udeaf", 
-        "Do Not Litter Symbol"
-    ], 
-    [
-        "\ud83d\udeb1", 
-        "Non-Potable Water Symbol"
-    ], 
-    [
-        "\ud83d\udeb3", 
-        "No Bicycles"
-    ], 
-    [
-        "\ud83d\udeb7", 
-        "No Pedestrians"
-    ], 
-    [
-        "\ud83d\udeb8", 
-        "Children Crossing"
-    ], 
-    [
-        "\u26d4", 
-        "No Entry"
-    ], 
-    [
-        "\u2733", 
-        "Eight Spoked Asterisk"
-    ], 
-    [
-        "\u2747", 
-        "Sparkle"
-    ], 
-    [
-        "\u274e", 
-        "Negative Squared Cross Mark"
-    ], 
-    [
-        "\u2705", 
-        "White Heavy Check Mark"
-    ], 
-    [
-        "\u2734", 
-        "Eight Pointed Black Star"
-    ], 
-    [
-        "\ud83d\udc9f", 
-        "Heart Decoration"
-    ], 
-    [
-        "\ud83c\udd9a", 
-        "Squared VS"
-    ], 
-    [
-        "\ud83d\udcf3", 
-        "Vibration Mode"
-    ], 
-    [
-        "\ud83d\udcf4", 
-        "Mobile Phone Off"
-    ], 
-    [
-        "\ud83c\udd70", 
-        "Negative Squared Latin Capital Letter A"
-    ], 
-    [
-        "\ud83c\udd71", 
-        "Negative Squared Latin Capital Letter B"
-    ], 
-    [
-        "\ud83c\udd8e", 
-        "Negative Squared AB"
-    ], 
-    [
-        "\ud83c\udd7e", 
-        "Negative Squared Latin Capital Letter O"
-    ], 
-    [
-        "\ud83d\udca0", 
-        "Diamond Shape With A Dot Inside"
-    ], 
-    [
-        "\u27bf", 
-        "Double Curly Loop"
-    ], 
-    [
-        "\u267b", 
-        "Black Universal Recycling Symbol"
-    ], 
-    [
-        "\u2648", 
-        "Aries"
-    ], 
-    [
-        "\u2649", 
-        "Taurus"
-    ], 
-    [
-        "\u264a", 
-        "Gemini"
-    ], 
-    [
-        "\u264b", 
-        "Cancer"
-    ], 
-    [
-        "\u264c", 
-        "Leo"
-    ], 
-    [
-        "\u264d", 
-        "Virgo"
-    ], 
-    [
-        "\u264e", 
-        "Libra"
-    ], 
-    [
-        "\u264f", 
-        "Scorpius"
-    ], 
-    [
-        "\u2650", 
-        "Sagittarius"
-    ], 
-    [
-        "\u2651", 
-        "Capricorn"
-    ], 
-    [
-        "\u2652", 
-        "Aquarius"
-    ], 
-    [
-        "\u2653", 
-        "Pisces"
-    ], 
-    [
-        "\u26ce", 
-        "Ophiuchus"
-    ], 
-    [
-        "\ud83d\udd2f", 
-        "Six Pointed Star With Middle Dot"
-    ], 
-    [
-        "\ud83c\udfe7", 
-        "Automated Teller Machine"
-    ], 
-    [
-        "\ud83d\udcb9", 
-        "Chart With Upwards Trend And Yen Sign"
-    ], 
-    [
-        "\ud83d\udcb2", 
-        "Heavy Dollar Sign"
-    ], 
-    [
-        "\ud83d\udcb1", 
-        "Currency Exchange"
-    ], 
-    [
-        "\u00a9", 
-        "Copyright Sign"
-    ], 
-    [
-        "\u00ae", 
-        "Registered Sign"
-    ], 
-    [
-        "\u2122", 
-        "Trade Mark Sign"
-    ], 
-    [
-        "\u274c", 
-        "Cross Mark"
-    ], 
-    [
-        "\u203c", 
-        "Double Exclamation Mark"
-    ], 
-    [
-        "\u2049", 
-        "Exclamation Question Mark"
-    ], 
-    [
-        "\u2757", 
-        "Heavy Exclamation Mark Symbol"
-    ], 
-    [
-        "\u2753", 
-        "Black Question Mark Ornament"
-    ], 
-    [
-        "\u2755", 
-        "White Exclamation Mark Ornament"
-    ], 
-    [
-        "\u2754", 
-        "White Question Mark Ornament"
-    ], 
-    [
-        "\u2b55", 
-        "Heavy Large Circle"
-    ], 
-    [
-        "\ud83d\udd1d", 
-        "Top With Upwards Arrow Above"
-    ], 
-    [
-        "\ud83d\udd1a", 
-        "End With Leftwards Arrow Above"
-    ], 
-    [
-        "\ud83d\udd19", 
-        "Back With Leftwards Arrow Above"
-    ], 
-    [
-        "\ud83d\udd1b", 
-        "On With Exclamation Mark With Left Right Arrow Above"
-    ], 
-    [
-        "\ud83d\udd1c", 
-        "Soon With Rightwards Arrow Above"
-    ], 
-    [
-        "\ud83d\udd03", 
-        "Clockwise Downwards And Upwards Open Circle Arrows"
-    ], 
-    [
-        "\ud83d\udd5b", 
-        "Clock Face Twelve O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd67", 
-        "Clock Face Twelve-Thirty"
-    ], 
-    [
-        "\ud83d\udd50", 
-        "Clock Face One O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd5c", 
-        "Clock Face One-Thirty"
-    ], 
-    [
-        "\ud83d\udd51", 
-        "Clock Face Two O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd5d", 
-        "Clock Face Two-Thirty"
-    ], 
-    [
-        "\ud83d\udd52", 
-        "Clock Face Three O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd5e", 
-        "Clock Face Three-Thirty"
-    ], 
-    [
-        "\ud83d\udd53", 
-        "Clock Face Four O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd5f", 
-        "Clock Face Four-Thirty"
-    ], 
-    [
-        "\ud83d\udd54", 
-        "Clock Face Five O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd60", 
-        "Clock Face Five-Thirty"
-    ], 
-    [
-        "\ud83d\udd55", 
-        "Clock Face Six O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd61", 
-        "Clock Face Six-Thirty"
-    ], 
-    [
-        "\ud83d\udd56", 
-        "Clock Face Seven O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd62", 
-        "Clock Face Seven-Thirty"
-    ], 
-    [
-        "\ud83d\udd57", 
-        "Clock Face Eight O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd63", 
-        "Clock Face Eight-Thirty"
-    ], 
-    [
-        "\ud83d\udd58", 
-        "Clock Face Nine O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd64", 
-        "Clock Face Nine-Thirty"
-    ], 
-    [
-        "\ud83d\udd59", 
-        "Clock Face Ten O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd65", 
-        "Clock Face Ten-Thirty"
-    ], 
-    [
-        "\ud83d\udd5a", 
-        "Clock Face Eleven O\u2019Clock"
-    ], 
-    [
-        "\ud83d\udd66", 
-        "Clock Face Eleven-Thirty"
-    ], 
-    [
-        "\u2716", 
-        "Heavy Multiplication X"
-    ], 
-    [
-        "\u2795", 
-        "Heavy Plus Sign"
-    ], 
-    [
-        "\u2796", 
-        "Heavy Minus Sign"
-    ], 
-    [
-        "\u2797", 
-        "Heavy Division Sign"
-    ], 
-    [
-        "\u2660", 
-        "Black Spade Suit"
-    ], 
-    [
-        "\u2665", 
-        "Black Heart Suit"
-    ], 
-    [
-        "\u2663", 
-        "Black Club Suit"
-    ], 
-    [
-        "\u2666", 
-        "Black Diamond Suit"
-    ], 
-    [
-        "\ud83d\udcae", 
-        "White Flower"
-    ], 
-    [
-        "\ud83d\udcaf", 
-        "Hundred Points Symbol"
-    ], 
-    [
-        "\u2714", 
-        "Heavy Check Mark"
-    ], 
-    [
-        "\u2611", 
-        "Ballot Box With Check"
-    ], 
-    [
-        "\ud83d\udd18", 
-        "Radio Button"
-    ], 
-    [
-        "\ud83d\udd17", 
-        "Link Symbol"
-    ], 
-    [
-        "\u27b0", 
-        "Curly Loop"
-    ], 
-    [
-        "\u3030", 
-        "Wavy Dash"
-    ], 
-    [
-        "\u303d", 
-        "Part Alternation Mark"
-    ], 
-    [
-        "\ud83d\udd31", 
-        "Trident Emblem"
-    ], 
-    [
-        "\u25fc", 
-        "Black Medium Square"
-    ], 
-    [
-        "\u25fb", 
-        "White Medium Square"
-    ], 
-    [
-        "\u25fe", 
-        "Black Medium Small Square"
-    ], 
-    [
-        "\u25fd", 
-        "White Medium Small Square"
-    ], 
-    [
-        "\u25aa", 
-        "Black Small Square"
-    ], 
-    [
-        "\u25ab", 
-        "White Small Square"
-    ], 
-    [
-        "\ud83d\udd3a", 
-        "Up-Pointing Red Triangle"
-    ], 
-    [
-        "\ud83d\udd32", 
-        "Black Square Button"
-    ], 
-    [
-        "\ud83d\udd33", 
-        "White Square Button"
-    ], 
-    [
-        "\u26ab", 
-        "Medium Black Circle"
-    ], 
-    [
-        "\u26aa", 
-        "Medium White Circle"
-    ], 
-    [
-        "\ud83d\udd34", 
-        "Large Red Circle"
-    ], 
-    [
-        "\ud83d\udd35", 
-        "Large Blue Circle"
-    ], 
-    [
-        "\ud83d\udd3b", 
-        "Down-Pointing Red Triangle"
-    ], 
-    [
-        "\u2b1c", 
-        "White Large Square"
-    ], 
-    [
-        "\u2b1b", 
-        "Black Large Square"
-    ], 
-    [
-        "\ud83d\udd36", 
-        "Large Orange Diamond"
-    ], 
-    [
-        "\ud83d\udd37", 
-        "Large Blue Diamond"
-    ], 
-    [
-        "\ud83d\udd38", 
-        "Small Orange Diamond"
-    ], 
-    [
-        "\ud83d\udd39", 
-        "Small Blue Diamond"
-    ]
-]
+😀|grinning face
+😁|grinning face with smiling eyes
+😂|face with tears of joy
+🤣|rolling on the floor laughing
+😃|smiling face with open mouth
+😄|smiling face with open mouth & smiling eyes
+😅|smiling face with open mouth & cold sweat
+😆|smiling face with open mouth & closed eyes
+😉|winking face
+😊|smiling face with smiling eyes
+😋|face savouring delicious food
+😎|smiling face with sunglasses
+😍|smiling face with heart-eyes
+😘|face blowing a kiss
+😗|kissing face
+😙|kissing face with smiling eyes
+😚|kissing face with closed eyes
+☺|smiling face
+🙂|slightly smiling face
+🤗|hugging face
+🤔|thinking face
+😐|neutral face
+😑|expressionless face
+😶|face without mouth
+🙄|face with rolling eyes
+😏|smirking face
+😣|persevering face
+😥|disappointed but relieved face
+😮|face with open mouth
+🤐|zipper-mouth face
+😯|hushed face
+😪|sleepy face
+😫|tired face
+😴|sleeping face
+😌|relieved face
+🤓|nerd face
+😛|face with stuck-out tongue
+😜|face with stuck-out tongue & winking eye
+😝|face with stuck-out tongue & closed eyes
+🤤|drooling face
+😒|unamused face
+😓|face with cold sweat
+😔|pensive face
+😕|confused face
+🙃|upside-down face
+🤑|money-mouth face
+😲|astonished face
+☹|frowning face
+🙁|slightly frowning face
+😖|confounded face
+😞|disappointed face
+😟|worried face
+😤|face with steam from nose
+😢|crying face
+😭|loudly crying face
+😦|frowning face with open mouth
+😧|anguished face
+😨|fearful face
+😩|weary face
+😬|grimacing face
+😰|face with open mouth & cold sweat
+😱|face screaming in fear
+😳|flushed face
+😵|dizzy face
+😡|pouting face
+😠|angry face
+😇|smiling face with halo
+🤠|cowboy hat face
+🤡|clown face
+🤥|lying face
+😷|face with medical mask
+🤒|face with thermometer
+🤕|face with head-bandage
+🤢|nauseated face
+🤧|sneezing face
+😈|smiling face with horns
+👿|angry face with horns
+👹|ogre
+👺|goblin
+💀|skull
+☠|skull and crossbones
+👻|ghost
+👽|alien
+👾|alien monster
+🤖|robot face
+💩|pile of poo
+😺|smiling cat face with open mouth
+😸|grinning cat face with smiling eyes
+😹|cat face with tears of joy
+😻|smiling cat face with heart-eyes
+😼|cat face with wry smile
+😽|kissing cat face with closed eyes
+🙀|weary cat face
+😿|crying cat face
+😾|pouting cat face
+🙈|see-no-evil monkey
+🙉|hear-no-evil monkey
+🙊|speak-no-evil monkey
+👦|boy
+👦🏻|boy: light skin tone
+👦🏼|boy: medium-light skin tone
+👦🏽|boy: medium skin tone
+👦🏾|boy: medium-dark skin tone
+👦🏿|boy: dark skin tone
+👧|girl
+👧🏻|girl: light skin tone
+👧🏼|girl: medium-light skin tone
+👧🏽|girl: medium skin tone
+👧🏾|girl: medium-dark skin tone
+👧🏿|girl: dark skin tone
+👨|man
+👨🏻|man: light skin tone
+👨🏼|man: medium-light skin tone
+👨🏽|man: medium skin tone
+👨🏾|man: medium-dark skin tone
+👨🏿|man: dark skin tone
+👩|woman
+👩🏻|woman: light skin tone
+👩🏼|woman: medium-light skin tone
+👩🏽|woman: medium skin tone
+👩🏾|woman: medium-dark skin tone
+👩🏿|woman: dark skin tone
+👴|old man
+👴🏻|old man: light skin tone
+👴🏼|old man: medium-light skin tone
+👴🏽|old man: medium skin tone
+👴🏾|old man: medium-dark skin tone
+👴🏿|old man: dark skin tone
+👵|old woman
+👵🏻|old woman: light skin tone
+👵🏼|old woman: medium-light skin tone
+👵🏽|old woman: medium skin tone
+👵🏾|old woman: medium-dark skin tone
+👵🏿|old woman: dark skin tone
+👶|baby
+👶🏻|baby: light skin tone
+👶🏼|baby: medium-light skin tone
+👶🏽|baby: medium skin tone
+👶🏾|baby: medium-dark skin tone
+👶🏿|baby: dark skin tone
+👼|baby angel
+👼🏻|baby angel: light skin tone
+👼🏼|baby angel: medium-light skin tone
+👼🏽|baby angel: medium skin tone
+👼🏾|baby angel: medium-dark skin tone
+👼🏿|baby angel: dark skin tone
+👮|police officer
+👮🏻|police officer: light skin tone
+👮🏼|police officer: medium-light skin tone
+👮🏽|police officer: medium skin tone
+👮🏾|police officer: medium-dark skin tone
+👮🏿|police officer: dark skin tone
+🕵|detective
+🕵🏻|detective: light skin tone
+🕵🏼|detective: medium-light skin tone
+🕵🏽|detective: medium skin tone
+🕵🏾|detective: medium-dark skin tone
+🕵🏿|detective: dark skin tone
+💂|guard
+💂🏻|guard: light skin tone
+💂🏼|guard: medium-light skin tone
+💂🏽|guard: medium skin tone
+💂🏾|guard: medium-dark skin tone
+💂🏿|guard: dark skin tone
+👷|construction worker
+👷🏻|construction worker: light skin tone
+👷🏼|construction worker: medium-light skin tone
+👷🏽|construction worker: medium skin tone
+👷🏾|construction worker: medium-dark skin tone
+👷🏿|construction worker: dark skin tone
+👳|person wearing turban
+👳🏻|person wearing turban: light skin tone
+👳🏼|person wearing turban: medium-light skin tone
+👳🏽|person wearing turban: medium skin tone
+👳🏾|person wearing turban: medium-dark skin tone
+👳🏿|person wearing turban: dark skin tone
+👱|blond-haired person
+👱🏻|blond-haired person: light skin tone
+👱🏼|blond-haired person: medium-light skin tone
+👱🏽|blond-haired person: medium skin tone
+👱🏾|blond-haired person: medium-dark skin tone
+👱🏿|blond-haired person: dark skin tone
+🎅|Santa Claus
+🎅🏻|Santa Claus: light skin tone
+🎅🏼|Santa Claus: medium-light skin tone
+🎅🏽|Santa Claus: medium skin tone
+🎅🏾|Santa Claus: medium-dark skin tone
+🎅🏿|Santa Claus: dark skin tone
+🤶|Mrs. Claus
+🤶🏻|Mrs. Claus: light skin tone
+🤶🏼|Mrs. Claus: medium-light skin tone
+🤶🏽|Mrs. Claus: medium skin tone
+🤶🏾|Mrs. Claus: medium-dark skin tone
+🤶🏿|Mrs. Claus: dark skin tone
+👸|princess
+👸🏻|princess: light skin tone
+👸🏼|princess: medium-light skin tone
+👸🏽|princess: medium skin tone
+👸🏾|princess: medium-dark skin tone
+👸🏿|princess: dark skin tone
+🤴|prince
+🤴🏻|prince: light skin tone
+🤴🏼|prince: medium-light skin tone
+🤴🏽|prince: medium skin tone
+🤴🏾|prince: medium-dark skin tone
+🤴🏿|prince: dark skin tone
+👰|bride with veil
+👰🏻|bride with veil: light skin tone
+👰🏼|bride with veil: medium-light skin tone
+👰🏽|bride with veil: medium skin tone
+👰🏾|bride with veil: medium-dark skin tone
+👰🏿|bride with veil: dark skin tone
+🤵|man in tuxedo
+🤵🏻|man in tuxedo: light skin tone
+🤵🏼|man in tuxedo: medium-light skin tone
+🤵🏽|man in tuxedo: medium skin tone
+🤵🏾|man in tuxedo: medium-dark skin tone
+🤵🏿|man in tuxedo: dark skin tone
+🤰|pregnant woman
+🤰🏻|pregnant woman: light skin tone
+🤰🏼|pregnant woman: medium-light skin tone
+🤰🏽|pregnant woman: medium skin tone
+🤰🏾|pregnant woman: medium-dark skin tone
+🤰🏿|pregnant woman: dark skin tone
+👲|man with Chinese cap
+👲🏻|man with Chinese cap: light skin tone
+👲🏼|man with Chinese cap: medium-light skin tone
+👲🏽|man with Chinese cap: medium skin tone
+👲🏾|man with Chinese cap: medium-dark skin tone
+👲🏿|man with Chinese cap: dark skin tone
+🙍|person frowning
+🙍🏻|person frowning: light skin tone
+🙍🏼|person frowning: medium-light skin tone
+🙍🏽|person frowning: medium skin tone
+🙍🏾|person frowning: medium-dark skin tone
+🙍🏿|person frowning: dark skin tone
+🙎|person pouting
+🙎🏻|person pouting: light skin tone
+🙎🏼|person pouting: medium-light skin tone
+🙎🏽|person pouting: medium skin tone
+🙎🏾|person pouting: medium-dark skin tone
+🙎🏿|person pouting: dark skin tone
+🙅|person gesturing NO
+🙅🏻|person gesturing NO: light skin tone
+🙅🏼|person gesturing NO: medium-light skin tone
+🙅🏽|person gesturing NO: medium skin tone
+🙅🏾|person gesturing NO: medium-dark skin tone
+🙅🏿|person gesturing NO: dark skin tone
+🙆|person gesturing OK
+🙆🏻|person gesturing OK: light skin tone
+🙆🏼|person gesturing OK: medium-light skin tone
+🙆🏽|person gesturing OK: medium skin tone
+🙆🏾|person gesturing OK: medium-dark skin tone
+🙆🏿|person gesturing OK: dark skin tone
+💁|person tipping hand
+💁🏻|person tipping hand: light skin tone
+💁🏼|person tipping hand: medium-light skin tone
+💁🏽|person tipping hand: medium skin tone
+💁🏾|person tipping hand: medium-dark skin tone
+💁🏿|person tipping hand: dark skin tone
+🙋|person raising hand
+🙋🏻|person raising hand: light skin tone
+🙋🏼|person raising hand: medium-light skin tone
+🙋🏽|person raising hand: medium skin tone
+🙋🏾|person raising hand: medium-dark skin tone
+🙋🏿|person raising hand: dark skin tone
+🙇|person bowing
+🙇🏻|person bowing: light skin tone
+🙇🏼|person bowing: medium-light skin tone
+🙇🏽|person bowing: medium skin tone
+🙇🏾|person bowing: medium-dark skin tone
+🙇🏿|person bowing: dark skin tone
+🤦|person facepalming
+🤦🏻|person facepalming: light skin tone
+🤦🏼|person facepalming: medium-light skin tone
+🤦🏽|person facepalming: medium skin tone
+🤦🏾|person facepalming: medium-dark skin tone
+🤦🏿|person facepalming: dark skin tone
+🤷|person shrugging
+🤷🏻|person shrugging: light skin tone
+🤷🏼|person shrugging: medium-light skin tone
+🤷🏽|person shrugging: medium skin tone
+🤷🏾|person shrugging: medium-dark skin tone
+🤷🏿|person shrugging: dark skin tone
+💆|person getting massage
+💆🏻|person getting massage: light skin tone
+💆🏼|person getting massage: medium-light skin tone
+💆🏽|person getting massage: medium skin tone
+💆🏾|person getting massage: medium-dark skin tone
+💆🏿|person getting massage: dark skin tone
+💇|person getting haircut
+💇🏻|person getting haircut: light skin tone
+💇🏼|person getting haircut: medium-light skin tone
+💇🏽|person getting haircut: medium skin tone
+💇🏾|person getting haircut: medium-dark skin tone
+💇🏿|person getting haircut: dark skin tone
+🚶|person walking
+🚶🏻|person walking: light skin tone
+🚶🏼|person walking: medium-light skin tone
+🚶🏽|person walking: medium skin tone
+🚶🏾|person walking: medium-dark skin tone
+🚶🏿|person walking: dark skin tone
+🏃|person running
+🏃🏻|person running: light skin tone
+🏃🏼|person running: medium-light skin tone
+🏃🏽|person running: medium skin tone
+🏃🏾|person running: medium-dark skin tone
+🏃🏿|person running: dark skin tone
+💃|woman dancing
+💃🏻|woman dancing: light skin tone
+💃🏼|woman dancing: medium-light skin tone
+💃🏽|woman dancing: medium skin tone
+💃🏾|woman dancing: medium-dark skin tone
+💃🏿|woman dancing: dark skin tone
+🕺|man dancing
+🕺🏻|man dancing: light skin tone
+🕺🏼|man dancing: medium-light skin tone
+🕺🏽|man dancing: medium skin tone
+🕺🏾|man dancing: medium-dark skin tone
+🕺🏿|man dancing: dark skin tone
+👯|people with bunny ears partying
+🕴|man in business suit levitating
+🗣|speaking head
+👤|bust in silhouette
+👥|busts in silhouette
+🤺|person fencing
+🏇|horse racing
+⛷|skier
+🏂|snowboarder
+🏌|person golfing
+🏄|person surfing
+🏄🏻|person surfing: light skin tone
+🏄🏼|person surfing: medium-light skin tone
+🏄🏽|person surfing: medium skin tone
+🏄🏾|person surfing: medium-dark skin tone
+🏄🏿|person surfing: dark skin tone
+🚣|person rowing boat
+🚣🏻|person rowing boat: light skin tone
+🚣🏼|person rowing boat: medium-light skin tone
+🚣🏽|person rowing boat: medium skin tone
+🚣🏾|person rowing boat: medium-dark skin tone
+🚣🏿|person rowing boat: dark skin tone
+🏊|person swimming
+🏊🏻|person swimming: light skin tone
+🏊🏼|person swimming: medium-light skin tone
+🏊🏽|person swimming: medium skin tone
+🏊🏾|person swimming: medium-dark skin tone
+🏊🏿|person swimming: dark skin tone
+⛹|person bouncing ball
+⛹🏻|person bouncing ball: light skin tone
+⛹🏼|person bouncing ball: medium-light skin tone
+⛹🏽|person bouncing ball: medium skin tone
+⛹🏾|person bouncing ball: medium-dark skin tone
+⛹🏿|person bouncing ball: dark skin tone
+🏋|person lifting weights
+🏋🏻|person lifting weights: light skin tone
+🏋🏼|person lifting weights: medium-light skin tone
+🏋🏽|person lifting weights: medium skin tone
+🏋🏾|person lifting weights: medium-dark skin tone
+🏋🏿|person lifting weights: dark skin tone
+🚴|person biking
+🚴🏻|person biking: light skin tone
+🚴🏼|person biking: medium-light skin tone
+🚴🏽|person biking: medium skin tone
+🚴🏾|person biking: medium-dark skin tone
+🚴🏿|person biking: dark skin tone
+🚵|person mountain biking
+🚵🏻|person mountain biking: light skin tone
+🚵🏼|person mountain biking: medium-light skin tone
+🚵🏽|person mountain biking: medium skin tone
+🚵🏾|person mountain biking: medium-dark skin tone
+🚵🏿|person mountain biking: dark skin tone
+🏎|racing car
+🏍|motorcycle
+🤸|person cartwheeling
+🤸🏻|person cartwheeling: light skin tone
+🤸🏼|person cartwheeling: medium-light skin tone
+🤸🏽|person cartwheeling: medium skin tone
+🤸🏾|person cartwheeling: medium-dark skin tone
+🤸🏿|person cartwheeling: dark skin tone
+🤼|people wrestling
+🤼🏻|people wrestling: light skin tone
+🤼🏼|people wrestling: medium-light skin tone
+🤼🏽|people wrestling: medium skin tone
+🤼🏾|people wrestling: medium-dark skin tone
+🤼🏿|people wrestling: dark skin tone
+🤽|person playing water polo
+🤽🏻|person playing water polo: light skin tone
+🤽🏼|person playing water polo: medium-light skin tone
+🤽🏽|person playing water polo: medium skin tone
+🤽🏾|person playing water polo: medium-dark skin tone
+🤽🏿|person playing water polo: dark skin tone
+🤾|person playing handball
+🤾🏻|person playing handball: light skin tone
+🤾🏼|person playing handball: medium-light skin tone
+🤾🏽|person playing handball: medium skin tone
+🤾🏾|person playing handball: medium-dark skin tone
+🤾🏿|person playing handball: dark skin tone
+🤹|person juggling
+🤹🏻|person juggling: light skin tone
+🤹🏼|person juggling: medium-light skin tone
+🤹🏽|person juggling: medium skin tone
+🤹🏾|person juggling: medium-dark skin tone
+🤹🏿|person juggling: dark skin tone
+👫|man and woman holding hands
+👬|two men holding hands
+👭|two women holding hands
+💏|kiss
+👩‍❤️‍💋‍👨|kiss: woman, man
+👨‍❤️‍💋‍👨|kiss: man, man
+👩‍❤️‍💋‍👩|kiss: woman, woman
+💑|couple with heart
+👩‍❤️‍👨|couple with heart: woman, man
+👨‍❤️‍👨|couple with heart: man, man
+👩‍❤️‍👩|couple with heart: woman, woman
+👪|family
+👨‍👩‍👦|family: man, woman, boy
+👨‍👩‍👧|family: man, woman, girl
+👨‍👩‍👧‍👦|family: man, woman, girl, boy
+👨‍👩‍👦‍👦|family: man, woman, boy, boy
+👨‍👩‍👧‍👧|family: man, woman, girl, girl
+👨‍👨‍👦|family: man, man, boy
+👨‍👨‍👧|family: man, man, girl
+👨‍👨‍👧‍👦|family: man, man, girl, boy
+👨‍👨‍👦‍👦|family: man, man, boy, boy
+👨‍👨‍👧‍👧|family: man, man, girl, girl
+👩‍👩‍👦|family: woman, woman, boy
+👩‍👩‍👧|family: woman, woman, girl
+👩‍👩‍👧‍👦|family: woman, woman, girl, boy
+👩‍👩‍👦‍👦|family: woman, woman, boy, boy
+👩‍👩‍👧‍👧|family: woman, woman, girl, girl
+🏻|light skin tone
+🏼|medium-light skin tone
+🏽|medium skin tone
+🏾|medium-dark skin tone
+🏿|dark skin tone
+💪|flexed biceps
+💪🏻|flexed biceps: light skin tone
+💪🏼|flexed biceps: medium-light skin tone
+💪🏽|flexed biceps: medium skin tone
+💪🏾|flexed biceps: medium-dark skin tone
+💪🏿|flexed biceps: dark skin tone
+🤳|selfie
+🤳🏻|selfie: light skin tone
+🤳🏼|selfie: medium-light skin tone
+🤳🏽|selfie: medium skin tone
+🤳🏾|selfie: medium-dark skin tone
+🤳🏿|selfie: dark skin tone
+👈|backhand index pointing left
+👈🏻|backhand index pointing left: light skin tone
+👈🏼|backhand index pointing left: medium-light skin tone
+👈🏽|backhand index pointing left: medium skin tone
+👈🏾|backhand index pointing left: medium-dark skin tone
+👈🏿|backhand index pointing left: dark skin tone
+👉|backhand index pointing right
+👉🏻|backhand index pointing right: light skin tone
+👉🏼|backhand index pointing right: medium-light skin tone
+👉🏽|backhand index pointing right: medium skin tone
+👉🏾|backhand index pointing right: medium-dark skin tone
+👉🏿|backhand index pointing right: dark skin tone
+☝|index pointing up
+☝🏻|index pointing up: light skin tone
+☝🏼|index pointing up: medium-light skin tone
+☝🏽|index pointing up: medium skin tone
+☝🏾|index pointing up: medium-dark skin tone
+☝🏿|index pointing up: dark skin tone
+👆|backhand index pointing up
+👆🏻|backhand index pointing up: light skin tone
+👆🏼|backhand index pointing up: medium-light skin tone
+👆🏽|backhand index pointing up: medium skin tone
+👆🏾|backhand index pointing up: medium-dark skin tone
+👆🏿|backhand index pointing up: dark skin tone
+🖕|middle finger
+🖕🏻|middle finger: light skin tone
+🖕🏼|middle finger: medium-light skin tone
+🖕🏽|middle finger: medium skin tone
+🖕🏾|middle finger: medium-dark skin tone
+🖕🏿|middle finger: dark skin tone
+👇|backhand index pointing down
+👇🏻|backhand index pointing down: light skin tone
+👇🏼|backhand index pointing down: medium-light skin tone
+👇🏽|backhand index pointing down: medium skin tone
+👇🏾|backhand index pointing down: medium-dark skin tone
+👇🏿|backhand index pointing down: dark skin tone
+✌|victory hand
+✌🏻|victory hand: light skin tone
+✌🏼|victory hand: medium-light skin tone
+✌🏽|victory hand: medium skin tone
+✌🏾|victory hand: medium-dark skin tone
+✌🏿|victory hand: dark skin tone
+🤞|crossed fingers
+🤞🏻|crossed fingers: light skin tone
+🤞🏼|crossed fingers: medium-light skin tone
+🤞🏽|crossed fingers: medium skin tone
+🤞🏾|crossed fingers: medium-dark skin tone
+🤞🏿|crossed fingers: dark skin tone
+🖖|vulcan salute
+🖖🏻|vulcan salute: light skin tone
+🖖🏼|vulcan salute: medium-light skin tone
+🖖🏽|vulcan salute: medium skin tone
+🖖🏾|vulcan salute: medium-dark skin tone
+🖖🏿|vulcan salute: dark skin tone
+🤘|sign of the horns
+🤘🏻|sign of the horns: light skin tone
+🤘🏼|sign of the horns: medium-light skin tone
+🤘🏽|sign of the horns: medium skin tone
+🤘🏾|sign of the horns: medium-dark skin tone
+🤘🏿|sign of the horns: dark skin tone
+🤙|call me hand
+🤙🏻|call me hand: light skin tone
+🤙🏼|call me hand: medium-light skin tone
+🤙🏽|call me hand: medium skin tone
+🤙🏾|call me hand: medium-dark skin tone
+🤙🏿|call me hand: dark skin tone
+🖐|raised hand with fingers splayed
+🖐🏻|raised hand with fingers splayed: light skin tone
+🖐🏼|raised hand with fingers splayed: medium-light skin tone
+🖐🏽|raised hand with fingers splayed: medium skin tone
+🖐🏾|raised hand with fingers splayed: medium-dark skin tone
+🖐🏿|raised hand with fingers splayed: dark skin tone
+✋|raised hand
+✋🏻|raised hand: light skin tone
+✋🏼|raised hand: medium-light skin tone
+✋🏽|raised hand: medium skin tone
+✋🏾|raised hand: medium-dark skin tone
+✋🏿|raised hand: dark skin tone
+👌|OK hand
+👌🏻|OK hand: light skin tone
+👌🏼|OK hand: medium-light skin tone
+👌🏽|OK hand: medium skin tone
+👌🏾|OK hand: medium-dark skin tone
+👌🏿|OK hand: dark skin tone
+👍|thumbs up
+👍🏻|thumbs up: light skin tone
+👍🏼|thumbs up: medium-light skin tone
+👍🏽|thumbs up: medium skin tone
+👍🏾|thumbs up: medium-dark skin tone
+👍🏿|thumbs up: dark skin tone
+👎|thumbs down
+👎🏻|thumbs down: light skin tone
+👎🏼|thumbs down: medium-light skin tone
+👎🏽|thumbs down: medium skin tone
+👎🏾|thumbs down: medium-dark skin tone
+👎🏿|thumbs down: dark skin tone
+✊|raised fist
+✊🏻|raised fist: light skin tone
+✊🏼|raised fist: medium-light skin tone
+✊🏽|raised fist: medium skin tone
+✊🏾|raised fist: medium-dark skin tone
+✊🏿|raised fist: dark skin tone
+👊|oncoming fist
+👊🏻|oncoming fist: light skin tone
+👊🏼|oncoming fist: medium-light skin tone
+👊🏽|oncoming fist: medium skin tone
+👊🏾|oncoming fist: medium-dark skin tone
+👊🏿|oncoming fist: dark skin tone
+🤛|left-facing fist
+🤛🏻|left-facing fist: light skin tone
+🤛🏼|left-facing fist: medium-light skin tone
+🤛🏽|left-facing fist: medium skin tone
+🤛🏾|left-facing fist: medium-dark skin tone
+🤛🏿|left-facing fist: dark skin tone
+🤜|right-facing fist
+🤜🏻|right-facing fist: light skin tone
+🤜🏼|right-facing fist: medium-light skin tone
+🤜🏽|right-facing fist: medium skin tone
+🤜🏾|right-facing fist: medium-dark skin tone
+🤜🏿|right-facing fist: dark skin tone
+🤚|raised back of hand
+🤚🏻|raised back of hand: light skin tone
+🤚🏼|raised back of hand: medium-light skin tone
+🤚🏽|raised back of hand: medium skin tone
+🤚🏾|raised back of hand: medium-dark skin tone
+🤚🏿|raised back of hand: dark skin tone
+👋|waving hand
+👋🏻|waving hand: light skin tone
+👋🏼|waving hand: medium-light skin tone
+👋🏽|waving hand: medium skin tone
+👋🏾|waving hand: medium-dark skin tone
+👋🏿|waving hand: dark skin tone
+👏|clapping hands
+👏🏻|clapping hands: light skin tone
+👏🏼|clapping hands: medium-light skin tone
+👏🏽|clapping hands: medium skin tone
+👏🏾|clapping hands: medium-dark skin tone
+👏🏿|clapping hands: dark skin tone
+✍|writing hand
+✍🏻|writing hand: light skin tone
+✍🏼|writing hand: medium-light skin tone
+✍🏽|writing hand: medium skin tone
+✍🏾|writing hand: medium-dark skin tone
+✍🏿|writing hand: dark skin tone
+👐|open hands
+👐🏻|open hands: light skin tone
+👐🏼|open hands: medium-light skin tone
+👐🏽|open hands: medium skin tone
+👐🏾|open hands: medium-dark skin tone
+👐🏿|open hands: dark skin tone
+🙌|raising hands
+🙌🏻|raising hands: light skin tone
+🙌🏼|raising hands: medium-light skin tone
+🙌🏽|raising hands: medium skin tone
+🙌🏾|raising hands: medium-dark skin tone
+🙌🏿|raising hands: dark skin tone
+🙏|folded hands
+🙏🏻|folded hands: light skin tone
+🙏🏼|folded hands: medium-light skin tone
+🙏🏽|folded hands: medium skin tone
+🙏🏾|folded hands: medium-dark skin tone
+🙏🏿|folded hands: dark skin tone
+🤝|handshake
+🤝🏻|handshake: light skin tone
+🤝🏼|handshake: medium-light skin tone
+🤝🏽|handshake: medium skin tone
+🤝🏾|handshake: medium-dark skin tone
+🤝🏿|handshake: dark skin tone
+💅|nail polish
+💅🏻|nail polish: light skin tone
+💅🏼|nail polish: medium-light skin tone
+💅🏽|nail polish: medium skin tone
+💅🏾|nail polish: medium-dark skin tone
+💅🏿|nail polish: dark skin tone
+👂|ear
+👂🏻|ear: light skin tone
+👂🏼|ear: medium-light skin tone
+👂🏽|ear: medium skin tone
+👂🏾|ear: medium-dark skin tone
+👂🏿|ear: dark skin tone
+👃|nose
+👃🏻|nose: light skin tone
+👃🏼|nose: medium-light skin tone
+👃🏽|nose: medium skin tone
+👃🏾|nose: medium-dark skin tone
+👃🏿|nose: dark skin tone
+👣|footprints
+👀|eyes
+👁|eye
+👁‍🗨|eye in speech bubble
+👅|tongue
+👄|mouth
+💋|kiss mark
+💘|heart with arrow
+❤|red heart
+💓|beating heart
+💔|broken heart
+💕|two hearts
+💖|sparkling heart
+💗|growing heart
+💙|blue heart
+💚|green heart
+💛|yellow heart
+💜|purple heart
+🖤|black heart
+💝|heart with ribbon
+💞|revolving hearts
+💟|heart decoration
+❣|heavy heart exclamation
+💌|love letter
+💤|zzz
+💢|anger symbol
+💣|bomb
+💥|collision
+💦|sweat droplets
+💨|dashing away
+💫|dizzy
+💬|speech balloon
+🗨|left speech bubble
+🗯|right anger bubble
+💭|thought balloon
+🕳|hole
+👓|glasses
+🕶|sunglasses
+👔|necktie
+👕|t-shirt
+👖|jeans
+👗|dress
+👘|kimono
+👙|bikini
+👚|woman’s clothes
+👛|purse
+👜|handbag
+👝|clutch bag
+🛍|shopping bags
+🎒|school backpack
+👞|man’s shoe
+👟|running shoe
+👠|high-heeled shoe
+👡|woman’s sandal
+👢|woman’s boot
+👑|crown
+👒|woman’s hat
+🎩|top hat
+🎓|graduation cap
+⛑|rescue worker’s helmet
+📿|prayer beads
+💄|lipstick
+💍|ring
+💎|gem stone
+🐵|monkey face
+🐒|monkey
+🦍|gorilla
+🐶|dog face
+🐕|dog
+🐩|poodle
+🐺|wolf face
+🦊|fox face
+🐱|cat face
+🐈|cat
+🦁|lion face
+🐯|tiger face
+🐅|tiger
+🐆|leopard
+🐴|horse face
+🐎|horse
+🦌|deer
+🦄|unicorn face
+🐮|cow face
+🐂|ox
+🐃|water buffalo
+🐄|cow
+🐷|pig face
+🐖|pig
+🐗|boar
+🐽|pig nose
+🐏|ram
+🐑|sheep
+🐐|goat
+🐪|camel
+🐫|two-hump camel
+🐘|elephant
+🦏|rhinoceros
+🐭|mouse face
+🐁|mouse
+🐀|rat
+🐹|hamster face
+🐰|rabbit face
+🐇|rabbit
+🐿|chipmunk
+🦇|bat
+🐻|bear face
+🐨|koala
+🐼|panda face
+🐾|paw prints
+🦃|turkey
+🐔|chicken
+🐓|rooster
+🐣|hatching chick
+🐤|baby chick
+🐥|front-facing baby chick
+🐦|bird
+🐧|penguin
+🕊|dove
+🦅|eagle
+🦆|duck
+🦉|owl
+🐸|frog face
+🐊|crocodile
+🐢|turtle
+🦎|lizard
+🐍|snake
+🐲|dragon face
+🐉|dragon
+🐳|spouting whale
+🐋|whale
+🐬|dolphin
+🐟|fish
+🐠|tropical fish
+🐡|blowfish
+🦈|shark
+🐙|octopus
+🐚|spiral shell
+🦀|crab
+🦐|shrimp
+🦑|squid
+🦋|butterfly
+🐌|snail
+🐛|bug
+🐜|ant
+🐝|honeybee
+🐞|lady beetle
+🕷|spider
+🕸|spider web
+🦂|scorpion
+💐|bouquet
+🌸|cherry blossom
+💮|white flower
+🏵|rosette
+🌹|rose
+🥀|wilted flower
+🌺|hibiscus
+🌻|sunflower
+🌼|blossom
+🌷|tulip
+🌱|seedling
+🌲|evergreen tree
+🌳|deciduous tree
+🌴|palm tree
+🌵|cactus
+🌾|sheaf of rice
+🌿|herb
+☘|shamrock
+🍀|four leaf clover
+🍁|maple leaf
+🍂|fallen leaf
+🍃|leaf fluttering in wind
+🍇|grapes
+🍈|melon
+🍉|watermelon
+🍊|tangerine
+🍋|lemon
+🍌|banana
+🍍|pineapple
+🍎|red apple
+🍏|green apple
+🍐|pear
+🍑|peach
+🍒|cherries
+🍓|strawberry
+🥝|kiwi fruit
+🍅|tomato
+🥑|avocado
+🍆|eggplant
+🥔|potato
+🥕|carrot
+🌽|ear of corn
+🌶|hot pepper
+🥒|cucumber
+🍄|mushroom
+🥜|peanuts
+🌰|chestnut
+🍞|bread
+🥐|croissant
+🥖|baguette bread
+🥞|pancakes
+🧀|cheese wedge
+🍖|meat on bone
+🍗|poultry leg
+🥓|bacon
+🍔|hamburger
+🍟|french fries
+🍕|pizza
+🌭|hot dog
+🌮|taco
+🌯|burrito
+🥙|stuffed flatbread
+🥚|egg
+🍳|cooking
+🥘|shallow pan of food
+🍲|pot of food
+🥗|green salad
+🍿|popcorn
+🍱|bento box
+🍘|rice cracker
+🍙|rice ball
+🍚|cooked rice
+🍛|curry rice
+🍜|steaming bowl
+🍝|spaghetti
+🍠|roasted sweet potato
+🍢|oden
+🍣|sushi
+🍤|fried shrimp
+🍥|fish cake with swirl
+🍡|dango
+🍦|soft ice cream
+🍧|shaved ice
+🍨|ice cream
+🍩|doughnut
+🍪|cookie
+🎂|birthday cake
+🍰|shortcake
+🍫|chocolate bar
+🍬|candy
+🍭|lollipop
+🍮|custard
+🍯|honey pot
+🍼|baby bottle
+🥛|glass of milk
+☕|hot beverage
+🍵|teacup without handle
+🍶|sake
+🍾|bottle with popping cork
+🍷|wine glass
+🍸|cocktail glass
+🍹|tropical drink
+🍺|beer mug
+🍻|clinking beer mugs
+🥂|clinking glasses
+🥃|tumbler glass
+🍽|fork and knife with plate
+🍴|fork and knife
+🥄|spoon
+🔪|kitchen knife
+🏺|amphora
+🌍|globe showing Europe-Africa
+🌎|globe showing Americas
+🌏|globe showing Asia-Australia
+🌐|globe with meridians
+🗺|world map
+🗾|map of Japan
+🏔|snow-capped mountain
+⛰|mountain
+🌋|volcano
+🗻|mount fuji
+🏕|camping
+🏖|beach with umbrella
+🏜|desert
+🏝|desert island
+🏞|national park
+🏟|stadium
+🏛|classical building
+🏗|building construction
+🏘|house
+🏙|cityscape
+🏚|derelict house
+🏠|house
+🏡|house with garden
+🏢|office building
+🏣|Japanese post office
+🏤|post office
+🏥|hospital
+🏦|bank
+🏨|hotel
+🏩|love hotel
+🏪|convenience store
+🏫|school
+🏬|department store
+🏭|factory
+🏯|Japanese castle
+🏰|castle
+💒|wedding
+🗼|Tokyo tower
+🗽|Statue of Liberty
+⛪|church
+🕌|mosque
+🕍|synagogue
+⛩|shinto shrine
+🕋|kaaba
+⛲|fountain
+⛺|tent
+🌁|foggy
+🌃|night with stars
+🌄|sunrise over mountains
+🌅|sunrise
+🌆|cityscape at dusk
+🌇|sunset
+🌉|bridge at night
+♨|hot springs
+🌌|milky way
+🎠|carousel horse
+🎡|ferris wheel
+🎢|roller coaster
+💈|barber pole
+🎪|circus tent
+🎭|performing arts
+🖼|framed picture
+🎨|artist palette
+🎰|slot machine
+🚂|locomotive
+🚃|railway car
+🚄|high-speed train
+🚅|high-speed train with bullet nose
+🚆|train
+🚇|metro
+🚈|light rail
+🚉|station
+🚊|tram
+🚝|monorail
+🚞|mountain railway
+🚋|tram car
+🚌|bus
+🚍|oncoming bus
+🚎|trolleybus
+🚐|minibus
+🚑|ambulance
+🚒|fire engine
+🚓|police car
+🚔|oncoming police car
+🚕|taxi
+🚖|oncoming taxi
+🚗|automobile
+🚘|oncoming automobile
+🚙|sport utility vehicle
+🚚|delivery truck
+🚛|articulated lorry
+🚜|tractor
+🚲|bicycle
+🛴|kick scooter
+🛵|motor scooter
+🚏|bus stop
+🛣|motorway
+🛤|railway track
+⛽|fuel pump
+🚨|police car light
+🚥|horizontal traffic light
+🚦|vertical traffic light
+🚧|construction
+🛑|stop sign
+⚓|anchor
+⛵|sailboat
+🛶|canoe
+🚤|speedboat
+🛳|passenger ship
+⛴|ferry
+🛥|motor boat
+🚢|ship
+✈|airplane
+🛩|small airplane
+🛫|airplane departure
+🛬|airplane arrival
+💺|seat
+🚁|helicopter
+🚟|suspension railway
+🚠|mountain cableway
+🚡|aerial tramway
+🚀|rocket
+🛰|satellite
+🛎|bellhop bell
+🚪|door
+🛌|person in bed
+🛏|bed
+🛋|couch and lamp
+🚽|toilet
+🚿|shower
+🛀|person taking bath
+🛀🏻|person taking bath: light skin tone
+🛀🏼|person taking bath: medium-light skin tone
+🛀🏽|person taking bath: medium skin tone
+🛀🏾|person taking bath: medium-dark skin tone
+🛀🏿|person taking bath: dark skin tone
+🛁|bathtub
+⌛|hourglass
+⏳|hourglass with flowing sand
+⌚|watch
+⏰|alarm clock
+⏱|stopwatch
+⏲|timer clock
+🕰|mantelpiece clock
+🕛|twelve o’clock
+🕧|twelve-thirty
+🕐|one o’clock
+🕜|one-thirty
+🕑|two o’clock
+🕝|two-thirty
+🕒|three o’clock
+🕞|three-thirty
+🕓|four o’clock
+🕟|four-thirty
+🕔|five o’clock
+🕠|five-thirty
+🕕|six o’clock
+🕡|six-thirty
+🕖|seven o’clock
+🕢|seven-thirty
+🕗|eight o’clock
+🕣|eight-thirty
+🕘|nine o’clock
+🕤|nine-thirty
+🕙|ten o’clock
+🕥|ten-thirty
+🕚|eleven o’clock
+🕦|eleven-thirty
+🌑|new moon
+🌒|waxing crescent moon
+🌓|first quarter moon
+🌔|waxing gibbous moon
+🌕|full moon
+🌖|waning gibbous moon
+🌗|last quarter moon
+🌘|waning crescent moon
+🌙|crescent moon
+🌚|new moon face
+🌛|first quarter moon with face
+🌜|last quarter moon with face
+🌡|thermometer
+☀|sun
+🌝|full moon with face
+🌞|sun with face
+⭐|white medium star
+🌟|glowing star
+🌠|shooting star
+☁|cloud
+⛅|sun behind cloud
+⛈|cloud with lightning and rain
+🌤|sun behind small cloud
+🌥|sun behind large cloud
+🌦|sun behind rain cloud
+🌧|cloud with rain
+🌨|cloud with snow
+🌩|cloud with lightning
+🌪|tornado
+🌫|fog
+🌬|wind face
+🌀|cyclone
+🌈|rainbow
+🌂|closed umbrella
+☂|umbrella
+☔|umbrella with rain drops
+⛱|umbrella on ground
+⚡|high voltage
+❄|snowflake
+☃|snowman
+⛄|snowman without snow
+☄|comet
+🔥|fire
+💧|droplet
+🌊|water wave
+🎃|jack-o-lantern
+🎄|Christmas tree
+🎆|fireworks
+🎇|sparkler
+✨|sparkles
+🎈|balloon
+🎉|party popper
+🎊|confetti ball
+🎋|tanabata tree
+🎍|pine decoration
+🎎|Japanese dolls
+🎏|carp streamer
+🎐|wind chime
+🎑|moon viewing ceremony
+🎀|ribbon
+🎁|wrapped gift
+🎗|reminder ribbon
+🎟|admission tickets
+🎫|ticket
+🎖|military medal
+🏆|trophy
+🏅|sports medal
+🥇|1st place medal
+🥈|2nd place medal
+🥉|3rd place medal
+⚽|soccer ball
+⚾|baseball
+🏀|basketball
+🏐|volleyball
+🏈|american football
+🏉|rugby football
+🎾|tennis
+🎱|pool 8 ball
+🎳|bowling
+🏏|cricket
+🏑|field hockey
+🏒|ice hockey
+🏓|ping pong
+🏸|badminton
+🥊|boxing glove
+🥋|martial arts uniform
+🥅|goal net
+🎯|direct hit
+⛳|flag in hole
+⛸|ice skate
+🎣|fishing pole
+🎽|running shirt
+🎿|skis
+🎮|video game
+🕹|joystick
+🎲|game die
+♠|spade suit
+♥|heart suit
+♦|diamond suit
+♣|club suit
+🃏|joker
+🀄|mahjong red dragon
+🎴|flower playing cards
+🔇|muted speaker
+🔈|speaker low volume
+🔉|speaker medium volume
+🔊|speaker high volume
+📢|loudspeaker
+📣|megaphone
+📯|postal horn
+🔔|bell
+🔕|bell with slash
+🎼|musical score
+🎵|musical note
+🎶|musical notes
+🎙|studio microphone
+🎚|level slider
+🎛|control knobs
+🎤|microphone
+🎧|headphone
+📻|radio
+🎷|saxophone
+🎸|guitar
+🎹|musical keyboard
+🎺|trumpet
+🎻|violin
+🥁|drum
+📱|mobile phone
+📲|mobile phone with arrow
+☎|telephone
+📞|telephone receiver
+📟|pager
+📠|fax machine
+🔋|battery
+🔌|electric plug
+💻|laptop computer
+🖥|desktop computer
+🖨|printer
+⌨|keyboard
+🖱|computer mouse
+🖲|trackball
+💽|computer disk
+💾|floppy disk
+💿|optical disk
+📀|dvd
+🎥|movie camera
+🎞|film frames
+📽|film projector
+🎬|clapper board
+📺|television
+📷|camera
+📸|camera with flash
+📹|video camera
+📼|videocassette
+🔍|left-pointing magnifying glass
+🔎|right-pointing magnifying glass
+🔬|microscope
+🔭|telescope
+📡|satellite antenna
+🕯|candle
+💡|light bulb
+🔦|flashlight
+🏮|red paper lantern
+📔|notebook with decorative cover
+📕|closed book
+📖|open book
+📗|green book
+📘|blue book
+📙|orange book
+📚|books
+📓|notebook
+📒|ledger
+📃|page with curl
+📜|scroll
+📄|page facing up
+📰|newspaper
+🗞|rolled-up newspaper
+📑|bookmark tabs
+🔖|bookmark
+🏷|label
+💰|money bag
+💴|yen banknote
+💵|dollar banknote
+💶|euro banknote
+💷|pound banknote
+💸|money with wings
+💳|credit card
+💹|chart increasing with yen
+💱|currency exchange
+💲|heavy dollar sign
+✉|envelope
+📧|e-mail
+📨|incoming envelope
+📩|envelope with arrow
+📤|outbox tray
+📥|inbox tray
+📦|package
+📫|closed mailbox with raised flag
+📪|closed mailbox with lowered flag
+📬|open mailbox with raised flag
+📭|open mailbox with lowered flag
+📮|postbox
+🗳|ballot box with ballot
+✏|pencil
+✒|black nib
+🖋|fountain pen
+🖊|pen
+🖌|paintbrush
+🖍|crayon
+📝|memo
+💼|briefcase
+📁|file folder
+📂|open file folder
+🗂|card index dividers
+📅|calendar
+📆|tear-off calendar
+🗒|spiral notepad
+🗓|spiral calendar
+📇|card index
+📈|chart increasing
+📉|chart decreasing
+📊|bar chart
+📋|clipboard
+📌|pushpin
+📍|round pushpin
+📎|paperclip
+🖇|linked paperclips
+📏|straight ruler
+📐|triangular ruler
+✂|scissors
+🗃|card file box
+🗄|file cabinet
+🗑|wastebasket
+🔒|locked
+🔓|unlocked
+🔏|locked with pen
+🔐|locked with key
+🔑|key
+🗝|old key
+🔨|hammer
+⛏|pick
+⚒|hammer and pick
+🛠|hammer and wrench
+🗡|dagger
+⚔|crossed swords
+🔫|pistol
+🏹|bow and arrow
+🛡|shield
+🔧|wrench
+🔩|nut and bolt
+⚙|gear
+🗜|clamp
+⚗|alembic
+⚖|balance scale
+🔗|link
+⛓|chains
+💉|syringe
+💊|pill
+🚬|cigarette
+⚰|coffin
+⚱|funeral urn
+🗿|moai
+🛢|oil drum
+🔮|crystal ball
+🛒|shopping cart
+🏧|ATM sign
+🚮|litter in bin sign
+🚰|potable water
+♿|wheelchair symbol
+🚹|men’s room
+🚺|women’s room
+🚻|restroom
+🚼|baby symbol
+🚾|water closet
+🛂|passport control
+🛃|customs
+🛄|baggage claim
+🛅|left luggage
+⚠|warning
+🚸|children crossing
+⛔|no entry
+🚫|prohibited
+🚳|no bicycles
+🚭|no smoking
+🚯|no littering
+🚱|non-potable water
+🚷|no pedestrians
+📵|no mobile phones
+🔞|no one under eighteen
+☢|radioactive
+☣|biohazard
+⬆|up arrow
+↗|up-right arrow
+➡|right arrow
+↘|down-right arrow
+⬇|down arrow
+↙|down-left arrow
+⬅|left arrow
+↖|up-left arrow
+↕|up-down arrow
+↔|left-right arrow
+↩|right arrow curving left
+↪|left arrow curving right
+⤴|right arrow curving up
+⤵|right arrow curving down
+🔃|clockwise vertical arrows
+🔄|anticlockwise arrows button
+🔙|BACK arrow
+🔚|END arrow
+🔛|ON! arrow
+🔜|SOON arrow
+🔝|TOP arrow
+🛐|place of worship
+⚛|atom symbol
+🕉|om
+✡|star of David
+☸|wheel of dharma
+☯|yin yang
+✝|latin cross
+☦|orthodox cross
+☪|star and crescent
+☮|peace symbol
+🕎|menorah
+🔯|dotted six-pointed star
+♈|Aries
+♉|Taurus
+♊|Gemini
+♋|Cancer
+♌|Leo
+♍|Virgo
+♎|Libra
+♏|Scorpius
+♐|Sagittarius
+♑|Capricorn
+♒|Aquarius
+♓|Pisces
+⛎|Ophiuchus
+🔀|shuffle tracks button
+🔁|repeat button
+🔂|repeat single button
+▶|play button
+⏩|fast-forward button
+⏭|next track button
+⏯|play or pause button
+◀|reverse button
+⏪|fast reverse button
+⏮|last track button
+🔼|up button
+⏫|fast up button
+🔽|down button
+⏬|fast down button
+⏸|pause button
+⏹|stop button
+⏺|record button
+⏏|eject button
+🎦|cinema
+🔅|dim button
+🔆|bright button
+📶|antenna bars
+📳|vibration mode
+📴|mobile phone off
+♻|recycling symbol
+📛|name badge
+⚜|fleur-de-lis
+🔰|Japanese symbol for beginner
+🔱|trident emblem
+⭕|heavy large circle
+✅|white heavy check mark
+☑|ballot box with check
+✔|heavy check mark
+✖|heavy multiplication x
+❌|cross mark
+❎|cross mark button
+➕|heavy plus sign
+➖|heavy minus sign
+➗|heavy division sign
+➰|curly loop
+➿|double curly loop
+〽|part alternation mark
+✳|eight-spoked asterisk
+✴|eight-pointed star
+❇|sparkle
+‼|double exclamation mark
+⁉|exclamation question mark
+❓|question mark
+❔|white question mark
+❕|white exclamation mark
+❗|exclamation mark
+〰|wavy dash
+©|copyright
+®|registered
+™|trade mark
+#️⃣|keycap: #
+*️⃣|keycap: *
+0️⃣|keycap: 0
+1️⃣|keycap: 1
+2️⃣|keycap: 2
+3️⃣|keycap: 3
+4️⃣|keycap: 4
+5️⃣|keycap: 5
+6️⃣|keycap: 6
+7️⃣|keycap: 7
+8️⃣|keycap: 8
+9️⃣|keycap: 9
+🔟|keycap 10
+💯|hundred points
+🔠|input latin uppercase
+🔡|input latin lowercase
+🔢|input numbers
+🔣|input symbols
+🔤|input latin letters
+🅰|A button (blood type)
+🆎|AB button (blood type)
+🅱|B button (blood type)
+🆑|CL button
+🆒|COOL button
+🆓|FREE button
+ℹ|information
+🆔|ID button
+Ⓜ|circled M
+🆕|NEW button
+🆖|NG button
+🅾|O button (blood type)
+🆗|OK button
+🅿|P button
+🆘|SOS button
+🆙|UP! button
+🆚|VS button
+🈁|Japanese “here” button
+🈂|Japanese “service charge” button
+🈷|Japanese “monthly amount” button
+🈶|Japanese “not free of charge” button
+🈯|Japanese “reserved” button
+🉐|Japanese “bargain” button
+🈹|Japanese “discount” button
+🈚|Japanese “free of charge” button
+🈲|Japanese “prohibited” button
+🉑|Japanese “acceptable” button
+🈸|Japanese “application” button
+🈴|Japanese “passing grade” button
+🈳|Japanese “vacancy” button
+㊗|Japanese “congratulations” button
+㊙|Japanese “secret” button
+🈺|Japanese “open for business” button
+🈵|Japanese “no vacancy” button
+▪|black small square
+▫|white small square
+◻|white medium square
+◼|black medium square
+◽|white medium-small square
+◾|black medium-small square
+⬛|black large square
+⬜|white large square
+🔶|large orange diamond
+🔷|large blue diamond
+🔸|small orange diamond
+🔹|small blue diamond
+🔺|red triangle pointed up
+🔻|red triangle pointed down
+💠|diamond with a dot
+🔘|radio button
+🔲|black square button
+🔳|white square button
+⚪|white circle
+⚫|black circle
+🔴|red circle
+🔵|blue circle
+🏁|chequered flag
+🚩|triangular flag
+🎌|crossed flags
+🏴|black flag
+🏳|white flag
+🇦🇨|Ascension Island
+🇦🇩|Andorra
+🇦🇪|United Arab Emirates
+🇦🇫|Afghanistan
+🇦🇬|Antigua & Barbuda
+🇦🇮|Anguilla
+🇦🇱|Albania
+🇦🇲|Armenia
+🇦🇴|Angola
+🇦🇶|Antarctica
+🇦🇷|Argentina
+🇦🇸|American Samoa
+🇦🇹|Austria
+🇦🇺|Australia
+🇦🇼|Aruba
+🇦🇽|Åland Islands
+🇦🇿|Azerbaijan
+🇧🇦|Bosnia & Herzegovina
+🇧🇧|Barbados
+🇧🇩|Bangladesh
+🇧🇪|Belgium
+🇧🇫|Burkina Faso
+🇧🇬|Bulgaria
+🇧🇭|Bahrain
+🇧🇮|Burundi
+🇧🇯|Benin
+🇧🇱|St. Barthélemy
+🇧🇲|Bermuda
+🇧🇳|Brunei
+🇧🇴|Bolivia
+🇧🇶|Caribbean Netherlands
+🇧🇷|Brazil
+🇧🇸|Bahamas
+🇧🇹|Bhutan
+🇧🇻|Bouvet Island
+🇧🇼|Botswana
+🇧🇾|Belarus
+🇧🇿|Belize
+🇨🇦|Canada
+🇨🇨|Cocos (Keeling) Islands
+🇨🇩|Congo - Kinshasa
+🇨🇫|Central African Republic
+🇨🇬|Congo - Brazzaville
+🇨🇭|Switzerland
+🇨🇮|Côte d’Ivoire
+🇨🇰|Cook Islands
+🇨🇱|Chile
+🇨🇲|Cameroon
+🇨🇳|China
+🇨🇴|Colombia
+🇨🇵|Clipperton Island
+🇨🇷|Costa Rica
+🇨🇺|Cuba
+🇨🇻|Cape Verde
+🇨🇼|Curaçao
+🇨🇽|Christmas Island
+🇨🇾|Cyprus
+🇨🇿|Czech Republic
+🇩🇪|Germany
+🇩🇬|Diego Garcia
+🇩🇯|Djibouti
+🇩🇰|Denmark
+🇩🇲|Dominica
+🇩🇴|Dominican Republic
+🇩🇿|Algeria
+🇪🇦|Ceuta & Melilla
+🇪🇨|Ecuador
+🇪🇪|Estonia
+🇪🇬|Egypt
+🇪🇭|Western Sahara
+🇪🇷|Eritrea
+🇪🇸|Spain
+🇪🇹|Ethiopia
+🇪🇺|European Union
+🇫🇮|Finland
+🇫🇯|Fiji
+🇫🇰|Falkland Islands
+🇫🇲|Micronesia
+🇫🇴|Faroe Islands
+🇫🇷|France
+🇬🇦|Gabon
+🇬🇧|United Kingdom
+🇬🇩|Grenada
+🇬🇪|Georgia
+🇬🇫|French Guiana
+🇬🇬|Guernsey
+🇬🇭|Ghana
+🇬🇮|Gibraltar
+🇬🇱|Greenland
+🇬🇲|Gambia
+🇬🇳|Guinea
+🇬🇵|Guadeloupe
+🇬🇶|Equatorial Guinea
+🇬🇷|Greece
+🇬🇸|South Georgia & South Sandwich Islands
+🇬🇹|Guatemala
+🇬🇺|Guam
+🇬🇼|Guinea-Bissau
+🇬🇾|Guyana
+🇭🇰|Hong Kong SAR China
+🇭🇲|Heard & McDonald Islands
+🇭🇳|Honduras
+🇭🇷|Croatia
+🇭🇹|Haiti
+🇭🇺|Hungary
+🇮🇨|Canary Islands
+🇮🇩|Indonesia
+🇮🇪|Ireland
+🇮🇱|Israel
+🇮🇲|Isle of Man
+🇮🇳|India
+🇮🇴|British Indian Ocean Territory
+🇮🇶|Iraq
+🇮🇷|Iran
+🇮🇸|Iceland
+🇮🇹|Italy
+🇯🇪|Jersey
+🇯🇲|Jamaica
+🇯🇴|Jordan
+🇯🇵|Japan
+🇰🇪|Kenya
+🇰🇬|Kyrgyzstan
+🇰🇭|Cambodia
+🇰🇮|Kiribati
+🇰🇲|Comoros
+🇰🇳|St. Kitts & Nevis
+🇰🇵|North Korea
+🇰🇷|South Korea
+🇰🇼|Kuwait
+🇰🇾|Cayman Islands
+🇰🇿|Kazakhstan
+🇱🇦|Laos
+🇱🇧|Lebanon
+🇱🇨|St. Lucia
+🇱🇮|Liechtenstein
+🇱🇰|Sri Lanka
+🇱🇷|Liberia
+🇱🇸|Lesotho
+🇱🇹|Lithuania
+🇱🇺|Luxembourg
+🇱🇻|Latvia
+🇱🇾|Libya
+🇲🇦|Morocco
+🇲🇨|Monaco
+🇲🇩|Moldova
+🇲🇪|Montenegro
+🇲🇫|St. Martin
+🇲🇬|Madagascar
+🇲🇭|Marshall Islands
+🇲🇰|Macedonia
+🇲🇱|Mali
+🇲🇲|Myanmar (Burma)
+🇲🇳|Mongolia
+🇲🇴|Macau SAR China
+🇲🇵|Northern Mariana Islands
+🇲🇶|Martinique
+🇲🇷|Mauritania
+🇲🇸|Montserrat
+🇲🇹|Malta
+🇲🇺|Mauritius
+🇲🇻|Maldives
+🇲🇼|Malawi
+🇲🇽|Mexico
+🇲🇾|Malaysia
+🇲🇿|Mozambique
+🇳🇦|Namibia
+🇳🇨|New Caledonia
+🇳🇪|Niger
+🇳🇫|Norfolk Island
+🇳🇬|Nigeria
+🇳🇮|Nicaragua
+🇳🇱|Netherlands
+🇳🇴|Norway
+🇳🇵|Nepal
+🇳🇷|Nauru
+🇳🇺|Niue
+🇳🇿|New Zealand
+🇴🇲|Oman
+🇵🇦|Panama
+🇵🇪|Peru
+🇵🇫|French Polynesia
+🇵🇬|Papua New Guinea
+🇵🇭|Philippines
+🇵🇰|Pakistan
+🇵🇱|Poland
+🇵🇲|St. Pierre & Miquelon
+🇵🇳|Pitcairn Islands
+🇵🇷|Puerto Rico
+🇵🇸|Palestinian Territories
+🇵🇹|Portugal
+🇵🇼|Palau
+🇵🇾|Paraguay
+🇶🇦|Qatar
+🇷🇪|Réunion
+🇷🇴|Romania
+🇷🇸|Serbia
+🇷🇺|Russia
+🇷🇼|Rwanda
+🇸🇦|Saudi Arabia
+🇸🇧|Solomon Islands
+🇸🇨|Seychelles
+🇸🇩|Sudan
+🇸🇪|Sweden
+🇸🇬|Singapore
+🇸🇭|St. Helena
+🇸🇮|Slovenia
+🇸🇯|Svalbard & Jan Mayen
+🇸🇰|Slovakia
+🇸🇱|Sierra Leone
+🇸🇲|San Marino
+🇸🇳|Senegal
+🇸🇴|Somalia
+🇸🇷|Suriname
+🇸🇸|South Sudan
+🇸🇹|São Tomé & Príncipe
+🇸🇻|El Salvador
+🇸🇽|Sint Maarten
+🇸🇾|Syria
+🇸🇿|Swaziland
+🇹🇦|Tristan da Cunha
+🇹🇨|Turks & Caicos Islands
+🇹🇩|Chad
+🇹🇫|French Southern Territories
+🇹🇬|Togo
+🇹🇭|Thailand
+🇹🇯|Tajikistan
+🇹🇰|Tokelau
+🇹🇱|Timor-Leste
+🇹🇲|Turkmenistan
+🇹🇳|Tunisia
+🇹🇴|Tonga
+🇹🇷|Turkey
+🇹🇹|Trinidad & Tobago
+🇹🇻|Tuvalu
+🇹🇼|Taiwan
+🇹🇿|Tanzania
+🇺🇦|Ukraine
+🇺🇬|Uganda
+🇺🇲|U.S. Outlying Islands
+🇺🇸|United States
+🇺🇾|Uruguay
+🇺🇿|Uzbekistan
+🇻🇦|Vatican City
+🇻🇨|St. Vincent & Grenadines
+🇻🇪|Venezuela
+🇻🇬|British Virgin Islands
+🇻🇮|U.S. Virgin Islands
+🇻🇳|Vietnam
+🇻🇺|Vanuatu
+🇼🇫|Wallis & Futuna
+🇼🇸|Samoa
+🇽🇰|Kosovo
+🇾🇪|Yemen
+🇾🇹|Mayotte
+🇿🇦|South Africa
+🇿🇲|Zambia
+🇿🇼|Zimbabwe
