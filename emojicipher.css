@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lato Regular"), local("Lato-Regular"), url("./Lato/Lato-Regular.woff2") format('woff2'), url("./Lato/Lato-Regular.woff") format('woff');
+}
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Lato Bold"), local("Lato-Bold"), url("./Lato/Lato-Bold.woff2") format('woff2'), url("./Lato/Lato-Bold.woff") format('woff');
+}
+@font-face {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Lato Italic"), local("Lato-Italic"), url("./Lato/Lato-Italic.woff2") format('woff2'), url("./Lato/Lato-Italic.woff") format('woff');
+}
+
+body, html {
+    font-family: Lato, sans-serif;
+    margin: 0;
+    color: #666666;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+#container {
+    width: 720px;
+    padding: 40px;
+    margin: auto;
+    background-color: #FAFAFA;
+}
+
+input {
+    border: none;
+    font-family: Lato, sans-serif;
+    display: block;
+    font-size: 24px;
+    cursor: text;
+    width: 680px;
+    padding: 20px;
+    color: #666666;
+}
+#output {
+    font-size: 48px;
+    padding: 16px;
+    white-space: pre-wrap;
+}
+footer {
+    margin: 8px;
+}
+
+
+* {
+    cursor: default;
+}
+::-moz-focus-inner {
+    border:0;
+}
+a:focus {
+    border: none;
+    outline: 0;
+}
+a {
+    color: #AAAAAA;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+a:hover, a:hover img {
+    cursor: pointer;
+    color: #888888;
+}
+
+/*@media screen and (max-width: 800px) {
+    #container {
+        width: 100%;
+    }
+    input {
+        margin: auto;
+        width: 80%;
+    }
+}*/
