@@ -9,7 +9,7 @@ There is a web version and a Python version.
 
 # Rules
 
-You enter either a-z+spaces[27 total] or emojis[1791] separated by spaces and get the opposite.
+You enter either a-z+spaces[27 total] or emojis[1791 total] separated by spaces and get the opposite.
 
 The emojis have to be separated by spaces, because some emojis consist of two or more characters and separating them is a nightmare.
 
