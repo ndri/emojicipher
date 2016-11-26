@@ -61,7 +61,7 @@ var checksecond = function(e) {
 input.onkeyup = function(e) {
 
     // Check whether inputs are valid
-    var test = input.value.split("");
+    var test = input.value.toLowerCase().split("");
     if (!(test.some(checkfirst))) {
         var integer = intify(test, alphabet1);
         output.innerHTML = wordify(integer, alphabet2).join(" ");

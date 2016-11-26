@@ -28,8 +28,10 @@ body, html {
 #container {
     width: 720px;
     padding: 40px;
-    margin: auto;
-    background-color: #FAFAFA;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 input {
@@ -38,14 +40,16 @@ input {
     display: block;
     font-size: 24px;
     cursor: text;
-    width: 680px;
+    width: 90%;
     padding: 20px;
     color: #666666;
+    margin: auto;
 }
 #output {
-    font-size: 48px;
+    font-size: 64px;
     padding: 16px;
     white-space: pre-wrap;
+    word-wrap: break-word;
 }
 footer {
     margin: 8px;
