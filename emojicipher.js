@@ -8,44 +8,36 @@ var alphabet2 = ["😀", "😁", "😂", "🤣", "😃", "😄", "😅", "😆",
 // Function that returns the index of the word in all possible combinations
 // of the given alphabet
 var intify = function(string, alphabet) {
-
-    var number = 0;
+    var number = bigInt();
     for (var i = 0; i < string.length; i++) {
-        number += Math.pow(alphabet.length, i);
+        number = number.add(bigInt(alphabet.length).pow(i));
     }
 
-    var combinations = Math.pow(alphabet.length, string.length);
+    var combinations = bigInt(alphabet.length).pow(string.length);
     for (var i = 0; i < string.length; i++) {
         var letter = string[i];
-        combinations /= alphabet.length;
-        number += alphabet.indexOf(letter) * combinations;
+        combinations = combinations.divide(alphabet.length);
+        letternumber = bigInt(alphabet.indexOf(letter)).times(combinations);
+        number = number.add(letternumber);
     }
-
     return number;
-
 }
 
 // Function that turns the index into a word using the alphabet
 var wordify = function(number, alphabet) {
-
     var out = [];
-
     while (true) {
-
-        if (number <= alphabet.length) {
-            out.unshift(alphabet[number - 1])
+        if (number.leq(alphabet.length)) {
+            out.unshift(alphabet[number.minus(1)])
             break;
         }
 
-        var loc = number % alphabet.length;
-        loc += alphabet.length * (loc === 0);
+        var loc = number.mod(alphabet.length);
+        loc = loc.add(alphabet.length * loc.isZero());
         out.unshift(alphabet[loc - 1]);
-        number = (number - loc) / alphabet.length
-
+        number = (number.minus(loc)).divide(alphabet.length);
     }
-
     return out;
-
 }
 
 // Functions for array.some()
@@ -55,7 +47,6 @@ var checkfirst = function(e) {
 var checksecond = function(e) {
     return alphabet2.indexOf(e) === -1;
 }
-
 
 // This activats when the input textbox is used
 input.onkeyup = function(e) {
