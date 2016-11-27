@@ -5,6 +5,8 @@ Demo at http://andri.io/emojicipher
 
 I got the emojis and their order from http://unicode.org/emoji/charts/full-emoji-list.html
 
+I recommend setting [Emoji One](http://emojione.com/) as a system font so the app works better
+
 There is a web version and a Python version.
 
 # Rules
