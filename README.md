@@ -13,6 +13,8 @@ The javascript version uses [peterolson/BigInteger.js](https://github.com/petero
 
 You enter either letters with spaces [27 total] or emojis [1791 total] separated by spaces and get the equivalent of the opposite alphabet.
 
+There will be around 2.27 letters for every emoji if there are 27 letters and 1791 emojis. It would be 2.0 if there were 729 emojis and 3.0 if there were 19683 emojis.
+
 The emojis have to be separated by spaces, because some emojis consist of two or more characters and separating them is a nightmare.
 
 # How it works
