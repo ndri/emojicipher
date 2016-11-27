@@ -49,3 +49,5 @@ This is a huge problem and I don't yet know how to fix this. The Python script h
 
 # TODO
 * Javascript big numbers support for the web version
+* Make the web app responsive
+* Find out whether this is actually a cipher or not
