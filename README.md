@@ -27,13 +27,13 @@ This table should explain it pretty well:
 
 # Examples
 
-hello => 😀 💘 ⚫
+hello => `😀 💘 ⚫`
 
-what is up => 😚 🖕🏿 💵 💬 🏜
+what is up => `😚 🖕🏿 💵 💬 🏜`
 
-the quick brown fox jumps over the lazy dog => 🦇 🇦🇷 🤶🏽 🇯🇲 ♣ 🕹 🐪 🇳🇺 🤰🏽 🔲 🇲🇷 🇲🇱 🇸🇱 🇸🇬 🍑 ♐ 🏜 📺 🇨🇦
+the quick brown fox jumps over the lazy dog => `🦇 🇦🇷 🤶🏽 🇯🇲 ♣ 🕹 🐪 🇳🇺 🤰🏽 🔲 🇲🇷 🇲🇱 🇸🇱 🇸🇬 🍑 ♐ 🏜 📺 🇨🇦`
 
-send nudes => 😘 👨‍👩‍👦 👞 🏉 🏭
+send nudes => `😘 👨‍👩‍👦 👞 🏉 🏭`
 
 # Python version
 
@@ -42,7 +42,7 @@ There is a Python version that used to be a good alternative when the Javascript
 # Changelog
 
 * 2016-12-03
-    * Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack.
+    * Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack and GitHub.
         * I got the shortcodes from http://emoji.codes/family and it seems that they're not very universal, so copying from some sites will not work.
         * Please add ones that you find to [emojishortcodes.js](https://github.com/ndri/emojicipher/blob/master/emojishortcodes.js). I have already added some that I found on Telegram.
     * Made it a little responsive, so it's better on mobile devices.
