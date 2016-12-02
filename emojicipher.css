@@ -27,11 +27,8 @@ body, html {
 
 #container {
     width: 720px;
-    padding: 40px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding: 40px 0;
+    margin: auto;
 }
 
 input {
@@ -40,10 +37,10 @@ input {
     display: block;
     font-size: 24px;
     cursor: text;
-    width: 90%;
     padding: 20px;
     color: #666666;
     margin: auto;
+    width: 80%;
 }
 #output {
     font-size: 64px;
@@ -53,6 +50,7 @@ input {
 }
 footer {
     margin: 8px;
+    font-size: 16px;
 }
 
 
@@ -76,12 +74,8 @@ a:hover, a:hover img {
     color: #888888;
 }
 
-/*@media screen and (max-width: 800px) {
+@media screen and (max-width: 720px) {
     #container {
         width: 100%;
     }
-    input {
-        margin: auto;
-        width: 80%;
-    }
-}*/
+}
