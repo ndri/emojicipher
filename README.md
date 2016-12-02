@@ -44,7 +44,7 @@ There is a Python version that used to be a good alternative when the Javascript
 * 2016-12-03
     * Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack.
         * I got the shortcodes from http://emoji.codes/family and it seems that they're not very universal, so copying from some sites will not work.
-        * Please add ones that you find to emojishortcodes.js. I have already added some that I found on Telegram.
+        * Please add ones that you find to [emojishortcodes.js](https://github.com/ndri/emojicipher/blob/master/emojishortcodes.js). I have already added some that I found on Telegram.
     * Made it a little responsive, so it's better on mobile devices.
     * Removed the vertical centering and moved the container to the top, so the scrollbar works.
 * 2016-11-27
