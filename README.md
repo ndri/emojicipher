@@ -51,4 +51,4 @@ There is a Python version that used to be a good alternative when the Javascript
     * Switched to [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js), so the JavaScript app works well.
 
 # TODO
-* Find out whether this is actually a cipher or not
+* Improve the shortcode list
