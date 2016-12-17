@@ -33,7 +33,7 @@ what is up => `😚 🖕🏿 💵 💬 🏜`
 
 the quick brown fox jumps over the lazy dog => `🦇 🇦🇷 🤶🏽 🇯🇲 ♣ 🕹 🐪 🇳🇺 🤰🏽 🔲 🇲🇷 🇲🇱 🇸🇱 🇸🇬 🍑 ♐ 🏜 📺 🇨🇦`
 
-send nudes => `😘 👨‍👩‍👦 👞 🏉 🏭`
+send nudes => `😘 👨👩👦 👞 🏉 🏭`
 
 # Python version
 
@@ -42,9 +42,7 @@ There is a Python version that used to be a good alternative when the Javascript
 # Changelog
 
 * 2016-12-17
-    * Sort of fixed family emojis.
-        * Previously, `😘 👨‍👩‍👦 👞 🏉 🏭` would not have worked, because GitHub turns the family emoji into a single one by adding zero-width joiners between the family members.
-        * As a fix, I removed the zero-width joiners in the input text. It would probably be smarter to have them included in the first place though.
+    * Added zero-width joiners between family members in family emojis, so they work better now.
 * 2016-12-03
     * Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack and GitHub.
         * I got the shortcodes from http://emoji.codes/family and it seems that they're not very universal, so copying from some sites will not work.
