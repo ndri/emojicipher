@@ -66,7 +66,11 @@ input.onkeyup = function(e) {
     } else {
 
         // Check the second alphabet
-        var text = input.value.trim().split(" ");
+        var text = input.value.trim();
+        console.log(text);
+        var re =
+        text = text.replace(/\u200D/g, "");
+        text = text.split(" ");
         if (!(text.some(checksecond))) {
             var integer = intify(text, alphabet2);
             output.innerHTML = wordify(integer, alphabet1).join("");
