@@ -67,8 +67,6 @@ input.onkeyup = function(e) {
 
         // Check the second alphabet
         var text = input.value.trim();
-        console.log(text);
-        var re =
         text = text.replace(/\u200D/g, "");
         text = text.split(" ");
         if (!(text.some(checksecond))) {
