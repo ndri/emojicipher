@@ -33,7 +33,7 @@ what is up => `😚 🖕🏿 💵 💬 🏜`
 
 the quick brown fox jumps over the lazy dog => `🦇 🇦🇷 🤶🏽 🇯🇲 ♣ 🕹 🐪 🇳🇺 🤰🏽 🔲 🇲🇷 🇲🇱 🇸🇱 🇸🇬 🍑 ♐ 🏜 📺 🇨🇦`
 
-send nudes => `😘 👨👩👦 👞 🏉 🏭`
+send nudes => `😘 👨‍👩‍👦 👞 🏉 🏭`
 
 # Python version
 
