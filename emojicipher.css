@@ -41,9 +41,27 @@ input {
     color: #666666;
     margin: auto;
     width: 80%;
+    background-color: #FFFFFF;
 }
+#textalphabet, #emojialphabet {
+    width: 60%;
+    display: inline-block;
+}
+#shuffletext, #shuffleemojis {
+    width: 20%;
+    display: inline-block;
+    margin: 8px 0;
+}
+input[type="button"] {
+    background-color: #E5E5E5;
+}
+input[type="button"]:hover {
+    cursor: pointer;
+    background-color: #DDDDDD;
+}
+
 #output {
-    font-size: 64px;
+    font-size: 48px;
     padding: 16px;
     white-space: pre-wrap;
     word-wrap: break-word;
@@ -52,7 +70,9 @@ footer {
     margin: 8px;
     font-size: 16px;
 }
-
+footer a {
+    margin: 0 16px;
+}
 
 * {
     cursor: default;

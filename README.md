@@ -1,7 +1,7 @@
 # emojicipher
 Hide messages in emojis.
 
-Demo at http://andri.io/emojicipher
+Demo at https://andri.io/emojicipher
 
 I got the emojis and their order from http://unicode.org/emoji/charts/full-emoji-list.html (warning, huge page)
 
@@ -35,12 +35,25 @@ the quick brown fox jumps over the lazy dog => `🦇 🇦🇷 🤶🏽 🇯🇲 
 
 send nudes => `😘 👨‍👩‍👦 👞 🏉 🏭`
 
+# Advanced
+
+There is an advanced menu that opens when you click the “Advanced” link under the textbox.
+
+It lets you change the order or the contents of the alphabets and there is a shuffle button to randomise the order.
+
+You can also add more characters like numbers, symbols or foreign letters. You shouldn't really mess with the emoji alphabet, but you might want to use older emoji sets, since not all devices have the latest emojis yet. Maybe type in all the emojis from your phone keyboard.
+
+Keep in mind that the sender and recipient should have the same alphabets.
+
 # Python version
 
-There is a Python version that used to be a good alternative when the Javascript version was broken, but now it's useless and I might remove it.
+There is a Python version that used to be a good alternative when the Javascript version was broken, but now it's useless and I might remove it. I guess it's more readable than the Javascript version.
 
 # Changelog
 
+* 2016-12-27
+    * Added an advanced menu that lets you change the alphabets.
+    * Changed the onkeyup event to oninput, which also detects pastes and whatnot.
 * 2016-12-17
     * Added zero-width joiners between family members in family emojis, so they work better now.
 * 2016-12-03

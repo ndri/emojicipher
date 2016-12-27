@@ -8,8 +8,12 @@
     </head>
     <body>
         <main id="container">
-            <input id="input" placeholder="Enter letters with spaces or emojis separated by spaces">
-            <footer><a href="https://github.com/ndri/emojicipher">GitHub source</a></footer>
+            <input id="input" placeholder="Enter letters or emojis">
+            <footer><a href="https://github.com/ndri/emojicipher">GitHub page</a><a id="advancedbutton">Advanced</a></footer>
+            <form id="advanced" style="display: none;">
+                <input id="textalphabet" placeholder="Text alphabet"><input id="shuffletext" type="button" value="Shuffle">
+                <input id="emojialphabet" placeholder="Emoji alphabet"><input id="shuffleemojis" type="button" value="Shuffle">
+            </form>
             <p id="output"></p>
         </main>
         <script src="http://peterolson.github.com/BigInteger.js/BigInteger.min.js"></script>
