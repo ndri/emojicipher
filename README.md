@@ -41,7 +41,11 @@ There is an advanced menu that opens when you click the “Advanced” link unde
 
 It lets you change the order or the contents of the alphabets and there is a shuffle button to randomise the order.
 
-You can also add more characters like numbers, symbols or foreign letters. You shouldn't really mess with the emoji alphabet, but you might want to use older emoji sets, since not all devices have the latest emojis yet. Maybe type in all the emojis from your phone keyboard.
+You can add more characters like numbers, symbols or foreign letters.
+
+You shouldn't really mess with the emoji alphabet, but you might want to use older emoji sets, since not all devices have the latest emojis yet. Maybe type in all the emojis from your phone keyboard.
+
+Also, you can make your emoji alphabet have the same amount of characters as your regular alphabet, so it works as an **actual** cipher!
 
 Keep in mind that the sender and recipient should have the same alphabets.
 
