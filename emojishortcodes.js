@@ -34,7 +34,7 @@ shortcodes = {
     "sleepy": "😪",
     "tired_face": "😫",
     "sleeping": "😴",
-    "relieved": "😌",
+    "relieved": "😌",sailboat
     "nerd": "🤓",
     "stuck_out_tongue": "😛",
     "stuck_out_tongue_winking_eye": "😜",
@@ -1806,6 +1806,7 @@ shortcodes = {
     "kr": "🇰🇷",
     "facepunch": "👊",
     "email": "📧",
+    "boat": "⛵",
 }
 
 // Function that gets the emoji for a shortcode
