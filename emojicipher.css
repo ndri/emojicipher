@@ -1,9 +1,10 @@
-body, html {
+body,
+html {
     font-family: Lato, sans-serif;
     margin: 0;
     color: #666666;
     text-align: center;
-    background-color: #EEEEEE;
+    background-color: #eeeeee;
 }
 
 #container {
@@ -22,55 +23,63 @@ input {
     color: #666666;
     margin: auto;
     width: 80%;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
-#textalphabet, #emojialphabet {
+#advanced {
+    font-size: 0;
+}
+#textalphabet,
+#emojialphabet {
     width: 60%;
     display: inline-block;
 }
-#shuffletext, #shuffleemojis {
+#shuffletext,
+#shuffleemojis {
     width: 20%;
     display: inline-block;
     margin: 8px 0;
 }
 input[type="button"] {
-    background-color: #E5E5E5;
+    background-color: #e5e5e5;
 }
 input[type="button"]:hover {
     cursor: pointer;
-    background-color: #DDDDDD;
+    background-color: #dddddd;
 }
 
 #output {
+    font-family: Lato, sans-serif;
+    color: #666666;
     font-size: 48px;
-    padding: 16px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
+    padding: 32px 16px;
+    margin-top: 16px;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    cursor: text;
+    resize: none;
 }
 footer {
     margin: 8px;
-    font-size: 16px;
+    font-size: 0;
 }
 footer a {
+    font-size: 16px;
     margin: 0 16px;
+    display: inline-block;
 }
 
 * {
     cursor: default;
 }
-::-moz-focus-inner {
-    border:0;
-}
-a:focus {
-    border: none;
-    outline: 0;
-}
 a {
-    color: #AAAAAA;
+    color: #aaaaaa;
     text-decoration: none;
     transition: color 0.2s ease;
 }
-a:hover, a:hover img {
+a:hover,
+a:hover img {
     cursor: pointer;
     color: #888888;
 }

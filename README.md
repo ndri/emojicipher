@@ -1,4 +1,5 @@
 # emojicipher
+
 Hide messages in emojis.
 
 Demo at https://andri.io/emojicipher
@@ -55,19 +56,23 @@ There is a Python version that used to be a good alternative when the Javascript
 
 # Changelog
 
-* 2016-12-27
-    * Added an advanced menu that lets you change the alphabets.
-    * Changed the onkeyup event to oninput, which also detects pastes and whatnot.
-* 2016-12-17
-    * Added zero-width joiners between family members in family emojis, so they work better now.
-* 2016-12-03
-    * Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack and GitHub.
-        * I got the shortcodes from http://emoji.codes/family and it seems that they're not very universal, so copying from some sites will not work.
-        * Please add ones that you find to [emojishortcodes.js](https://github.com/ndri/emojicipher/blob/master/emojishortcodes.js). I have already added some that I found on Telegram.
-    * Made it a little responsive, so it's better on mobile devices.
-    * Removed the vertical centering and moved the container to the top, so the scrollbar works.
-* 2016-11-27
-    * Switched to [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js), so the JavaScript app works well.
+-   2016-12-27
+    -   Added an advanced menu that lets you change the alphabets.
+    -   Changed the onkeyup event to oninput, which also detects pastes and whatnot.
+-   2016-12-17
+    -   Added zero-width joiners between family members in family emojis, so they work better now.
+-   2016-12-03
+    -   Added support for Emoji :shortcodes:, so now you can type for example `:grinning: :laughing: :grinning:` and it will work. This is great for copying emojis from sites like Slack and GitHub.
+        -   I got the shortcodes from http://emoji.codes/family and it seems that they're not very universal, so copying from some sites will not work.
+        -   Please add ones that you find to [emojishortcodes.js](https://github.com/ndri/emojicipher/blob/master/emojishortcodes.js). I have already added some that I found on Telegram.
+    -   Made it a little responsive, so it's better on mobile devices.
+    -   Removed the vertical centering and moved the container to the top, so the scrollbar works.
+-   2016-11-27
+    -   Switched to [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js), so the JavaScript app works well.
+-   2021-05-15
+    -   Switched to JavaScript's [BigInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt), so the app works again.
+    -   Made the output into a textarea, so ctrl-A selects the output only.
+    -   Improved the code a lot.
 
 # TODO
-* Improve the shortcode list
+-   Add new emojis?
